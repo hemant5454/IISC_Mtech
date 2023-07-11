@@ -1,0 +1,5562 @@
+Epoch:  1
+Loss Value:  1593235.75
+current loss:  1441619.3223525854
+Epoch:  1
+Loss Value:  1593235.75
+current loss:  1441619.3223525854
+Epoch:  2
+Loss Value:  1626770.375
+current loss:  1331886.934208701
+Epoch:  2
+Loss Value:  1626770.375
+current loss:  1331886.934208701
+Epoch:  3
+Loss Value:  1617413.5
+current loss:  1198209.3911765898
+Epoch:  3
+Loss Value:  1617413.5
+current loss:  1198209.3911765898
+Epoch:  4
+Loss Value:  1595750.75
+current loss:  1069663.716201406
+Epoch:  4
+Loss Value:  1595750.75
+current loss:  1069663.716201406
+Epoch:  5
+Loss Value:  1558868.625
+current loss:  945501.6155265757
+Epoch:  5
+Loss Value:  1558868.625
+current loss:  945501.6155265757
+Epoch:  6
+Loss Value:  1529201.125
+current loss:  839243.3713280758
+Epoch:  6
+Loss Value:  1529201.125
+current loss:  839243.3713280758
+Epoch:  7
+Loss Value:  1542996.25
+current loss:  766229.2615552556
+Epoch:  7
+Loss Value:  1542996.25
+current loss:  766229.2615552556
+Epoch:  8
+Loss Value:  1527356.25
+current loss:  686285.401650464
+Epoch:  8
+Loss Value:  1527356.25
+current loss:  686285.401650464
+Epoch:  9
+Loss Value:  1521278.0
+current loss:  618505.4788308592
+Epoch:  9
+Loss Value:  1521278.0
+current loss:  618505.4788308592
+Epoch:  10
+Loss Value:  1519245.5
+current loss:  558899.1855422285
+Epoch:  10
+Loss Value:  1519245.5
+current loss:  558899.1855422285
+Epoch:  11
+Loss Value:  1479136.375
+current loss:  492361.728083499
+Epoch:  11
+Loss Value:  1479136.375
+current loss:  492361.728083499
+Epoch:  12
+Loss Value:  1483991.5
+current loss:  446969.6503269065
+Epoch:  12
+Loss Value:  1483991.5
+current loss:  446969.6503269065
+Epoch:  13
+Loss Value:  1525548.375
+current loss:  415760.4339988742
+Epoch:  13
+Loss Value:  1525548.375
+current loss:  415760.4339988742
+Epoch:  14
+Loss Value:  1518354.375
+current loss:  374421.5790624554
+Epoch:  14
+Loss Value:  1518354.375
+current loss:  374421.5790624554
+Epoch:  15
+Loss Value:  1531326.375
+current loss:  341685.0992932645
+Epoch:  15
+Loss Value:  1531326.375
+current loss:  341685.0992932645
+Epoch:  16
+Loss Value:  1566727.375
+current loss:  316316.8016594067
+Epoch:  16
+Loss Value:  1566727.375
+current loss:  316316.8016594067
+Epoch:  17
+Loss Value:  1605151.25
+current loss:  293234.68698765204
+Epoch:  17
+Loss Value:  1605151.25
+current loss:  293234.68698765204
+Epoch:  18
+Loss Value:  1603004.375
+current loss:  264974.8410018392
+Epoch:  18
+Loss Value:  1603004.375
+current loss:  264974.8410018392
+Epoch:  19
+Loss Value:  1606840.125
+current loss:  240332.85880777627
+Epoch:  19
+Loss Value:  1606840.125
+current loss:  240332.85880777627
+Epoch:  20
+Loss Value:  1601730.125
+current loss:  216770.60013549007
+Epoch:  20
+Loss Value:  1601730.125
+current loss:  216770.60013549007
+Epoch:  21
+Loss Value:  1592525.625
+current loss:  195014.99993884767
+Epoch:  21
+Loss Value:  1592525.625
+current loss:  195014.99993884767
+Epoch:  22
+Loss Value:  1579643.0
+current loss:  175029.43348495217
+Epoch:  22
+Loss Value:  1579643.0
+current loss:  175029.43348495217
+Epoch:  23
+Loss Value:  1568337.875
+current loss:  157239.74191417906
+Epoch:  23
+Loss Value:  1568337.875
+current loss:  157239.74191417906
+Epoch:  24
+Loss Value:  1565028.75
+current loss:  141976.2050390876
+Epoch:  24
+Loss Value:  1565028.75
+current loss:  141976.2050390876
+Epoch:  25
+Loss Value:  1581274.5
+current loss:  129798.91515650626
+Epoch:  25
+Loss Value:  1581274.5
+current loss:  129798.91515650626
+Epoch:  26
+Loss Value:  1606063.25
+current loss:  119288.06441604227
+Epoch:  26
+Loss Value:  1606063.25
+current loss:  119288.06441604227
+Epoch:  27
+Loss Value:  1600912.875
+current loss:  107590.17061604191
+Epoch:  27
+Loss Value:  1600912.875
+current loss:  107590.17061604191
+Epoch:  28
+Loss Value:  1622100.875
+current loss:  98640.05579317083
+Epoch:  28
+Loss Value:  1622100.875
+current loss:  98640.05579317083
+Epoch:  29
+Loss Value:  1620246.5
+current loss:  89151.17971512358
+Epoch:  29
+Loss Value:  1620246.5
+current loss:  89151.17971512358
+Epoch:  30
+Loss Value:  1622657.0
+current loss:  80787.33499659301
+Epoch:  30
+Loss Value:  1622657.0
+current loss:  80787.33499659301
+Epoch:  31
+Loss Value:  1623118.625
+current loss:  73120.19944637825
+Epoch:  31
+Loss Value:  1623118.625
+current loss:  73120.19944637825
+Epoch:  32
+Loss Value:  1621090.375
+current loss:  66079.21653311617
+Epoch:  32
+Loss Value:  1621090.375
+current loss:  66079.21653311617
+Epoch:  33
+Loss Value:  1629945.625
+current loss:  60117.55734179375
+Epoch:  33
+Loss Value:  1629945.625
+current loss:  60117.55734179375
+Epoch:  34
+Loss Value:  1637631.25
+current loss:  54653.10980171622
+Epoch:  34
+Loss Value:  1637631.25
+current loss:  54653.10980171622
+Epoch:  35
+Loss Value:  1675507.125
+current loss:  50595.93108045153
+Epoch:  35
+Loss Value:  1675507.125
+current loss:  50595.93108045153
+Epoch:  36
+Loss Value:  1716682.625
+current loss:  46906.15957558961
+Epoch:  36
+Loss Value:  1716682.625
+current loss:  46906.15957558961
+Epoch:  37
+Loss Value:  1749914.0
+current loss:  43264.04509981748
+Epoch:  37
+Loss Value:  1749914.0
+current loss:  43264.04509981748
+Epoch:  38
+Loss Value:  1763433.5
+current loss:  39449.36851201959
+Epoch:  38
+Loss Value:  1763433.5
+current loss:  39449.36851201959
+Epoch:  39
+Loss Value:  1800655.625
+current loss:  36448.711705639544
+Epoch:  39
+Loss Value:  1800655.625
+current loss:  36448.711705639544
+Epoch:  40
+Loss Value:  1810052.625
+current loss:  33152.270249105386
+Epoch:  40
+Loss Value:  1810052.625
+current loss:  33152.270249105386
+Epoch:  41
+Loss Value:  1859074.75
+current loss:  30809.842379360423
+Epoch:  41
+Loss Value:  1859074.75
+current loss:  30809.842379360423
+Epoch:  42
+Loss Value:  1871957.875
+current loss:  28071.088119260698
+Epoch:  42
+Loss Value:  1871957.875
+current loss:  28071.088119260698
+Epoch:  43
+Loss Value:  1871516.875
+current loss:  25393.787160767377
+Epoch:  43
+Loss Value:  1871516.875
+current loss:  25393.787160767377
+Epoch:  44
+Loss Value:  1888050.875
+current loss:  23180.242346660776
+Epoch:  44
+Loss Value:  1888050.875
+current loss:  23180.242346660776
+Epoch:  45
+Loss Value:  1906896.125
+current loss:  21183.702451412668
+Epoch:  45
+Loss Value:  1906896.125
+current loss:  21183.702451412668
+Epoch:  46
+Loss Value:  1941020.25
+current loss:  19510.8167300076
+Epoch:  46
+Loss Value:  1941020.25
+current loss:  19510.8167300076
+Epoch:  47
+Loss Value:  1995455.375
+current loss:  18149.219579693337
+Epoch:  47
+Loss Value:  1995455.375
+current loss:  18149.219579693337
+Epoch:  48
+Loss Value:  2041645.25
+current loss:  16802.22397133325
+Epoch:  48
+Loss Value:  2041645.25
+current loss:  16802.22397133325
+Epoch:  49
+Loss Value:  2107299.5
+current loss:  15692.180782067322
+Epoch:  49
+Loss Value:  2107299.5
+current loss:  15692.180782067322
+Epoch:  50
+Loss Value:  2147427.0
+current loss:  14469.249310405106
+Epoch:  50
+Loss Value:  2147427.0
+current loss:  14469.249310405106
+Epoch:  51
+Loss Value:  2217111.75
+current loss:  13517.168447176855
+Epoch:  51
+Loss Value:  2217111.75
+current loss:  13517.168447176855
+Epoch:  52
+Loss Value:  2210015.25
+current loss:  12191.691497488722
+Epoch:  52
+Loss Value:  2210015.25
+current loss:  12191.691497488722
+Epoch:  53
+Loss Value:  2302690.25
+current loss:  11494.094621401555
+Epoch:  53
+Loss Value:  2302690.25
+current loss:  11494.094621401555
+Epoch:  54
+Loss Value:  2364891.25
+current loss:  10681.222751101446
+Epoch:  54
+Loss Value:  2364891.25
+current loss:  10681.222751101446
+Epoch:  55
+Loss Value:  2404669.5
+current loss:  9827.334631545667
+Epoch:  55
+Loss Value:  2404669.5
+current loss:  9827.334631545667
+Epoch:  56
+Loss Value:  2429626.5
+current loss:  8984.427678955411
+Epoch:  56
+Loss Value:  2429626.5
+current loss:  8984.427678955411
+Epoch:  57
+Loss Value:  2458142.25
+current loss:  8224.859058050712
+Epoch:  57
+Loss Value:  2458142.25
+current loss:  8224.859058050712
+Epoch:  58
+Loss Value:  2506261.5
+current loss:  7587.843897477703
+Epoch:  58
+Loss Value:  2506261.5
+current loss:  7587.843897477703
+Epoch:  59
+Loss Value:  2633853.75
+current loss:  7215.297008831138
+Epoch:  59
+Loss Value:  2633853.75
+current loss:  7215.297008831138
+Epoch:  60
+Loss Value:  2686243.75
+current loss:  6658.532542368901
+Epoch:  60
+Loss Value:  2686243.75
+current loss:  6658.532542368901
+Epoch:  61
+Loss Value:  2723953.5
+current loss:  6109.467374530366
+Epoch:  61
+Loss Value:  2723953.5
+current loss:  6109.467374530366
+Epoch:  62
+Loss Value:  2778563.75
+current loss:  5638.902399150761
+Epoch:  62
+Loss Value:  2778563.75
+current loss:  5638.902399150761
+Epoch:  63
+Loss Value:  2825662.5
+current loss:  5188.77754702144
+Epoch:  63
+Loss Value:  2825662.5
+current loss:  5188.77754702144
+Epoch:  64
+Loss Value:  2858529.75
+current loss:  4749.610896696567
+Epoch:  64
+Loss Value:  2858529.75
+current loss:  4749.610896696567
+Epoch:  65
+Loss Value:  2954270.75
+current loss:  4441.566432217248
+Epoch:  65
+Loss Value:  2954270.75
+current loss:  4441.566432217248
+Epoch:  66
+Loss Value:  2974372.75
+current loss:  4046.241620853429
+Epoch:  66
+Loss Value:  2974372.75
+current loss:  4046.241620853429
+Epoch:  67
+Loss Value:  3009945.0
+current loss:  3704.9771268925306
+Epoch:  67
+Loss Value:  3009945.0
+current loss:  3704.9771268925306
+Epoch:  68
+Loss Value:  3027412.0
+current loss:  3371.856247887129
+Epoch:  68
+Loss Value:  3027412.0
+current loss:  3371.856247887129
+Epoch:  69
+Loss Value:  3090180.0
+current loss:  3114.238377137126
+Epoch:  69
+Loss Value:  3090180.0
+current loss:  3114.238377137126
+Epoch:  70
+Loss Value:  3125650.5
+current loss:  2850.2243215764565
+Epoch:  70
+Loss Value:  3125650.5
+current loss:  2850.2243215764565
+Epoch:  71
+Loss Value:  3174134.25
+current loss:  2618.9937967819274
+Epoch:  71
+Loss Value:  3174134.25
+current loss:  2618.9937967819274
+Epoch:  72
+Loss Value:  3219154.5
+current loss:  2403.3750646719245
+Epoch:  72
+Loss Value:  3219154.5
+current loss:  2403.3750646719245
+Epoch:  73
+Loss Value:  3287272.0
+current loss:  2220.679700609017
+Epoch:  73
+Loss Value:  3287272.0
+current loss:  2220.679700609017
+Epoch:  74
+Loss Value:  3300568.25
+current loss:  2017.4814561091005
+Epoch:  74
+Loss Value:  3300568.25
+current loss:  2017.4814561091005
+Epoch:  75
+Loss Value:  3350715.75
+current loss:  1853.2285101331759
+Epoch:  75
+Loss Value:  3350715.75
+current loss:  1853.2285101331759
+Epoch:  76
+Loss Value:  3379545.75
+current loss:  1691.2985149656226
+Epoch:  76
+Loss Value:  3379545.75
+current loss:  1691.2985149656226
+Epoch:  77
+Loss Value:  3502206.25
+current loss:  1585.8941900760333
+Epoch:  77
+Loss Value:  3502206.25
+current loss:  1585.8941900760333
+Epoch:  78
+Loss Value:  3512870.5
+current loss:  1439.3459204762119
+Epoch:  78
+Loss Value:  3512870.5
+current loss:  1439.3459204762119
+Epoch:  79
+Loss Value:  3555718.75
+current loss:  1318.2597582517635
+Epoch:  79
+Loss Value:  3555718.75
+current loss:  1318.2597582517635
+Epoch:  80
+Loss Value:  3588857.25
+current loss:  1203.927484251982
+Epoch:  80
+Loss Value:  3588857.25
+current loss:  1203.927484251982
+Epoch:  81
+Loss Value:  3619985.75
+current loss:  1098.8073544127801
+Epoch:  81
+Loss Value:  3619985.75
+current loss:  1098.8073544127801
+Epoch:  82
+Loss Value:  3685807.0
+current loss:  1012.3200507783109
+Epoch:  82
+Loss Value:  3685807.0
+current loss:  1012.3200507783109
+Epoch:  83
+Loss Value:  3847136.75
+current loss:  956.0782185603978
+Epoch:  83
+Loss Value:  3847136.75
+current loss:  956.0782185603978
+Epoch:  84
+Loss Value:  3872972.0
+current loss:  870.9048502596021
+Epoch:  84
+Loss Value:  3872972.0
+current loss:  870.9048502596021
+Epoch:  85
+Loss Value:  3942073.75
+current loss:  802.0873164321738
+Epoch:  85
+Loss Value:  3942073.75
+current loss:  802.0873164321738
+Epoch:  86
+Loss Value:  4052027.75
+current loss:  746.0017848768051
+Epoch:  86
+Loss Value:  4052027.75
+current loss:  746.0017848768051
+Epoch:  87
+Loss Value:  4141946.75
+current loss:  689.9895584163418
+Epoch:  87
+Loss Value:  4141946.75
+current loss:  689.9895584163418
+Epoch:  88
+Loss Value:  4206299.5
+current loss:  634.0284584075653
+Epoch:  88
+Loss Value:  4206299.5
+current loss:  634.0284584075653
+Epoch:  89
+Loss Value:  4345726.5
+current loss:  592.7089721194287
+Epoch:  89
+Loss Value:  4345726.5
+current loss:  592.7089721194287
+Epoch:  90
+Loss Value:  4395850.0
+current loss:  542.4909872944304
+Epoch:  90
+Loss Value:  4395850.0
+current loss:  542.4909872944304
+Epoch:  91
+Loss Value:  4437108.0
+current loss:  495.4732521779562
+Epoch:  91
+Loss Value:  4437108.0
+current loss:  495.4732521779562
+Epoch:  92
+Loss Value:  4434645.0
+current loss:  448.07387815985635
+Epoch:  92
+Loss Value:  4434645.0
+current loss:  448.07387815985635
+Epoch:  93
+Loss Value:  4451888.5
+current loss:  407.01048473901756
+Epoch:  93
+Loss Value:  4451888.5
+current loss:  407.01048473901756
+Epoch:  94
+Loss Value:  4511466.5
+current loss:  373.20685050255014
+Epoch:  94
+Loss Value:  4511466.5
+current loss:  373.20685050255014
+Epoch:  95
+Loss Value:  4637364.5
+current loss:  347.11521868126175
+Epoch:  95
+Loss Value:  4637364.5
+current loss:  347.11521868126175
+Epoch:  96
+Loss Value:  4680041.0
+current loss:  316.9732636553918
+Epoch:  96
+Loss Value:  4680041.0
+current loss:  316.9732636553918
+Epoch:  97
+Loss Value:  4762339.0
+current loss:  291.8527785482663
+Epoch:  97
+Loss Value:  4762339.0
+current loss:  291.8527785482663
+Epoch:  98
+Loss Value:  4829323.5
+current loss:  267.79371225039876
+Epoch:  98
+Loss Value:  4829323.5
+current loss:  267.79371225039876
+Epoch:  99
+Loss Value:  4871841.5
+current loss:  244.44309829058008
+Epoch:  99
+Loss Value:  4871841.5
+current loss:  244.44309829058008
+Epoch:  100
+Loss Value:  4895833.5
+current loss:  222.2704970288204
+Epoch:  100
+Loss Value:  4895833.5
+current loss:  222.2704970288204
+Epoch:  101
+Loss Value:  5033019.5
+current loss:  206.75420250026505
+Epoch:  101
+Loss Value:  5033019.5
+current loss:  206.75420250026505
+Epoch:  102
+Loss Value:  5115756.5
+current loss:  190.15429941539244
+Epoch:  102
+Loss Value:  5115756.5
+current loss:  190.15429941539244
+Epoch:  103
+Loss Value:  5154233.0
+current loss:  173.35280909837383
+Epoch:  103
+Loss Value:  5154233.0
+current loss:  173.35280909837383
+Epoch:  104
+Loss Value:  5219541.0
+current loss:  158.84359279416606
+Epoch:  104
+Loss Value:  5219541.0
+current loss:  158.84359279416606
+Epoch:  105
+Loss Value:  5241992.0
+current loss:  144.3458471997798
+Epoch:  105
+Loss Value:  5241992.0
+current loss:  144.3458471997798
+Epoch:  106
+Loss Value:  5309230.5
+current loss:  132.2848388047934
+Epoch:  106
+Loss Value:  5309230.5
+current loss:  132.2848388047934
+Epoch:  107
+Loss Value:  5490410.0
+current loss:  123.78095256807923
+Epoch:  107
+Loss Value:  5490410.0
+current loss:  123.78095256807923
+Epoch:  108
+Loss Value:  5597469.5
+current loss:  114.1855981591808
+Epoch:  108
+Loss Value:  5597469.5
+current loss:  114.1855981591808
+Epoch:  109
+Loss Value:  5714683.5
+current loss:  105.48296525482623
+Epoch:  109
+Loss Value:  5714683.5
+current loss:  105.48296525482623
+Epoch:  110
+Loss Value:  5770557.5
+current loss:  96.37812475790801
+Epoch:  110
+Loss Value:  5770557.5
+current loss:  96.37812475790801
+Epoch:  111
+Loss Value:  5875396.5
+current loss:  88.79089447804273
+Epoch:  111
+Loss Value:  5875396.5
+current loss:  88.79089447804273
+Epoch:  112
+Loss Value:  5994209.5
+current loss:  81.9659959617673
+Epoch:  112
+Loss Value:  5994209.5
+current loss:  81.9659959617673
+Epoch:  113
+Loss Value:  6207528.0
+current loss:  76.80527379692971
+Epoch:  113
+Loss Value:  6207528.0
+current loss:  76.80527379692971
+Epoch:  114
+Loss Value:  6308940.0
+current loss:  70.63164214281568
+Epoch:  114
+Loss Value:  6308940.0
+current loss:  70.63164214281568
+Epoch:  115
+Loss Value:  6397505.5
+current loss:  64.80732951275476
+Epoch:  115
+Loss Value:  6397505.5
+current loss:  64.80732951275476
+Epoch:  116
+Loss Value:  6520880.5
+current loss:  59.77096278058613
+Epoch:  116
+Loss Value:  6520880.5
+current loss:  59.77096278058613
+Epoch:  117
+Loss Value:  6603558.5
+current loss:  54.76872001648211
+Epoch:  117
+Loss Value:  6603558.5
+current loss:  54.76872001648211
+Epoch:  118
+Loss Value:  6739985.0
+current loss:  50.5806077792493
+Epoch:  118
+Loss Value:  6739985.0
+current loss:  50.5806077792493
+Epoch:  119
+Loss Value:  6950803.5
+current loss:  47.198769501550046
+Epoch:  119
+Loss Value:  6950803.5
+current loss:  47.198769501550046
+Epoch:  120
+Loss Value:  7069371.5
+current loss:  43.43571970056637
+Epoch:  120
+Loss Value:  7069371.5
+current loss:  43.43571970056637
+Epoch:  121
+Loss Value:  7205928.0
+current loss:  40.06145213437749
+Epoch:  121
+Loss Value:  7205928.0
+current loss:  40.06145213437749
+Epoch:  122
+Loss Value:  7344125.0
+current loss:  36.9442947855773
+Epoch:  122
+Loss Value:  7344125.0
+current loss:  36.9442947855773
+Epoch:  123
+Loss Value:  7475593.5
+current loss:  34.026991321885994
+Epoch:  123
+Loss Value:  7475593.5
+current loss:  34.026991321885994
+Epoch:  124
+Loss Value:  7627496.5
+current loss:  31.414520951668138
+Epoch:  124
+Loss Value:  7627496.5
+current loss:  31.414520951668138
+Epoch:  125
+Loss Value:  7976868.0
+current loss:  29.727020435452843
+Epoch:  125
+Loss Value:  7976868.0
+current loss:  29.727020435452843
+Epoch:  126
+Loss Value:  8192199.5
+current loss:  27.62422151510736
+Epoch:  126
+Loss Value:  8192199.5
+current loss:  27.62422151510736
+Epoch:  127
+Loss Value:  8436704.0
+current loss:  25.741443199988073
+Epoch:  127
+Loss Value:  8436704.0
+current loss:  25.741443199988073
+Epoch:  128
+Loss Value:  8712886.0
+current loss:  24.0542966920869
+Epoch:  128
+Loss Value:  8712886.0
+current loss:  24.0542966920869
+Epoch:  129
+Loss Value:  8898696.0
+current loss:  22.22939044258812
+Epoch:  129
+Loss Value:  8898696.0
+current loss:  22.22939044258812
+Epoch:  130
+Loss Value:  9204343.0
+current loss:  20.804847154840218
+Epoch:  130
+Loss Value:  9204343.0
+current loss:  20.804847154840218
+Epoch:  131
+Loss Value:  9863740.0
+current loss:  20.17362312033729
+Epoch:  131
+Loss Value:  9863740.0
+current loss:  20.17362312033729
+Epoch:  132
+Loss Value:  10214892.0
+current loss:  18.903691368369817
+Epoch:  132
+Loss Value:  10214892.0
+current loss:  18.903691368369817
+Epoch:  133
+Loss Value:  10609337.0
+current loss:  17.765262763099706
+Epoch:  133
+Loss Value:  10609337.0
+current loss:  17.765262763099706
+Epoch:  134
+Loss Value:  11043918.0
+current loss:  16.733127332692845
+Epoch:  134
+Loss Value:  11043918.0
+current loss:  16.733127332692845
+Epoch:  135
+Loss Value:  11462670.0
+current loss:  15.714851590722253
+Epoch:  135
+Loss Value:  11462670.0
+current loss:  15.714851590722253
+Epoch:  136
+Loss Value:  11942459.0
+current loss:  14.814561632084747
+Epoch:  136
+Loss Value:  11942459.0
+current loss:  14.814561632084747
+Epoch:  137
+Loss Value:  13211670.0
+current loss:  14.829390970175602
+Epoch:  137
+Loss Value:  13211670.0
+current loss:  14.829390970175602
+Epoch:  138
+Loss Value:  13656910.0
+current loss:  13.870387592648619
+Epoch:  138
+Loss Value:  13656910.0
+current loss:  13.870387592648619
+Epoch:  139
+Loss Value:  14346088.0
+current loss:  13.183787430763589
+Epoch:  139
+Loss Value:  14346088.0
+current loss:  13.183787430763589
+Epoch:  140
+Loss Value:  15119155.0
+current loss:  12.572011591078304
+Epoch:  140
+Loss Value:  15119155.0
+current loss:  12.572011591078304
+Epoch:  141
+Loss Value:  15642558.0
+current loss:  11.769434034594203
+Epoch:  141
+Loss Value:  15642558.0
+current loss:  11.769434034594203
+Epoch:  142
+Loss Value:  16504486.0
+current loss:  11.236223277991854
+Epoch:  142
+Loss Value:  16504486.0
+current loss:  11.236223277991854
+Epoch:  143
+Loss Value:  18310708.0
+current loss:  11.279609010709187
+Epoch:  143
+Loss Value:  18310708.0
+current loss:  11.279609010709187
+Epoch:  144
+Loss Value:  19523860.0
+current loss:  10.88241153496523
+Epoch:  144
+Loss Value:  19523860.0
+current loss:  10.88241153496523
+Epoch:  145
+Loss Value:  20139444.0
+current loss:  10.157281506816878
+Epoch:  145
+Loss Value:  20139444.0
+current loss:  10.157281506816878
+Epoch:  146
+Loss Value:  20427502.0
+current loss:  9.322144400741141
+Epoch:  146
+Loss Value:  20427502.0
+current loss:  9.322144400741141
+Epoch:  147
+Loss Value:  21044100.0
+current loss:  8.689633763257856
+Epoch:  147
+Loss Value:  21044100.0
+current loss:  8.689633763257856
+Epoch:  148
+Loss Value:  21278750.0
+current loss:  7.950378042973348
+Epoch:  148
+Loss Value:  21278750.0
+current loss:  7.950378042973348
+Epoch:  149
+Loss Value:  22012636.0
+current loss:  7.4419075720566825
+Epoch:  149
+Loss Value:  22012636.0
+current loss:  7.4419075720566825
+Epoch:  150
+Loss Value:  22157656.0
+current loss:  6.778078387281203
+Epoch:  150
+Loss Value:  22157656.0
+current loss:  6.778078387281203
+Epoch:  151
+Loss Value:  22056898.0
+current loss:  6.105169952373131
+Epoch:  151
+Loss Value:  22056898.0
+current loss:  6.105169952373131
+Epoch:  152
+Loss Value:  22122056.0
+current loss:  5.54050514415484
+Epoch:  152
+Loss Value:  22122056.0
+current loss:  5.54050514415484
+Epoch:  153
+Loss Value:  22151650.0
+current loss:  5.019962902722129
+Epoch:  153
+Loss Value:  22151650.0
+current loss:  5.019962902722129
+Epoch:  154
+Loss Value:  21031072.0
+current loss:  4.3124729987463875
+Epoch:  154
+Loss Value:  21031072.0
+current loss:  4.3124729987463875
+Epoch:  155
+Loss Value:  21215250.0
+current loss:  3.9362591605738633
+Epoch:  155
+Loss Value:  21215250.0
+current loss:  3.9362591605738633
+Epoch:  156
+Loss Value:  20908942.0
+current loss:  3.510250745268252
+Epoch:  156
+Loss Value:  20908942.0
+current loss:  3.510250745268252
+Epoch:  157
+Loss Value:  19875556.0
+current loss:  3.019228070611107
+Epoch:  157
+Loss Value:  19875556.0
+current loss:  3.019228070611107
+Epoch:  158
+Loss Value:  19177908.0
+current loss:  2.636018275136556
+Epoch:  158
+Loss Value:  19177908.0
+current loss:  2.636018275136556
+Epoch:  159
+Loss Value:  16563375.0
+current loss:  2.059996925869318
+Epoch:  159
+Loss Value:  16563375.0
+current loss:  2.059996925869318
+Epoch:  160
+Loss Value:  18257922.0
+current loss:  2.054658442280605
+Epoch:  160
+Loss Value:  18257922.0
+current loss:  2.054658442280605
+Epoch:  161
+Loss Value:  17825068.0
+current loss:  1.8150560324691487
+Epoch:  161
+Loss Value:  17825068.0
+current loss:  1.8150560324691487
+Epoch:  162
+Loss Value:  14468800.0
+current loss:  1.3330974775517048
+Epoch:  162
+Loss Value:  14468800.0
+current loss:  1.3330974775517048
+Epoch:  163
+Loss Value:  15336825.0
+current loss:  1.2786020814377077
+Epoch:  163
+Loss Value:  15336825.0
+current loss:  1.2786020814377077
+Epoch:  164
+Loss Value:  15133084.0
+current loss:  1.1415578885869415
+Epoch:  164
+Loss Value:  15133084.0
+current loss:  1.1415578885869415
+Epoch:  165
+Loss Value:  17516408.0
+current loss:  1.1956005358605912
+Epoch:  165
+Loss Value:  17516408.0
+current loss:  1.1956005358605912
+Epoch:  166
+Loss Value:  20401664.0
+current loss:  1.2600192821190181
+Epoch:  166
+Loss Value:  20401664.0
+current loss:  1.2600192821190181
+Epoch:  167
+Loss Value:  17735070.0
+current loss:  0.9910944842950895
+Epoch:  167
+Loss Value:  17735070.0
+current loss:  0.9910944842950895
+Epoch:  168
+Loss Value:  17628788.0
+current loss:  0.8914051915516104
+Epoch:  168
+Loss Value:  17628788.0
+current loss:  0.8914051915516104
+Epoch:  169
+Loss Value:  17600280.0
+current loss:  0.8052724343710145
+Epoch:  169
+Loss Value:  17600280.0
+current loss:  0.8052724343710145
+Epoch:  170
+Loss Value:  15636155.0
+current loss:  0.6473270786127128
+Epoch:  170
+Loss Value:  15636155.0
+current loss:  0.6473270786127128
+Epoch:  171
+Loss Value:  14028835.0
+current loss:  0.525516028491242
+Epoch:  171
+Loss Value:  14028835.0
+current loss:  0.525516028491242
+Epoch:  172
+Loss Value:  13877198.0
+current loss:  0.47036683884511304
+Epoch:  172
+Loss Value:  13877198.0
+current loss:  0.47036683884511304
+Epoch:  173
+Loss Value:  15270740.0
+current loss:  0.4683446310454346
+Epoch:  173
+Loss Value:  15270740.0
+current loss:  0.4683446310454346
+Epoch:  174
+Loss Value:  15015796.0
+current loss:  0.41670083848505635
+Epoch:  174
+Loss Value:  15015796.0
+current loss:  0.41670083848505635
+Epoch:  175
+Loss Value:  14828356.0
+current loss:  0.3723398939707121
+Epoch:  175
+Loss Value:  14828356.0
+current loss:  0.3723398939707121
+Epoch:  176
+Loss Value:  14484491.0
+current loss:  0.32909429733918977
+Epoch:  176
+Loss Value:  14484491.0
+current loss:  0.32909429733918977
+Epoch:  177
+Loss Value:  14278906.0
+current loss:  0.29355035160519843
+Epoch:  177
+Loss Value:  14278906.0
+current loss:  0.29355035160519843
+Epoch:  178
+Loss Value:  13818054.0
+current loss:  0.25704260129495893
+Epoch:  178
+Loss Value:  13818054.0
+current loss:  0.25704260129495893
+Epoch:  179
+Loss Value:  13138668.0
+current loss:  0.22114652148984318
+Epoch:  179
+Loss Value:  13138668.0
+current loss:  0.22114652148984318
+Epoch:  180
+Loss Value:  11047847.0
+current loss:  0.16825848603268417
+Epoch:  180
+Loss Value:  11047847.0
+current loss:  0.16825848603268417
+Epoch:  181
+Loss Value:  9569240.0
+current loss:  0.1318704003051933
+Epoch:  181
+Loss Value:  9569240.0
+current loss:  0.1318704003051933
+Epoch:  182
+Loss Value:  9281420.0
+current loss:  0.11573237219072494
+Epoch:  182
+Loss Value:  9281420.0
+current loss:  0.11573237219072494
+Epoch:  183
+Loss Value:  9216092.0
+current loss:  0.1039819081059743
+Epoch:  183
+Loss Value:  9216092.0
+current loss:  0.1039819081059743
+Epoch:  184
+Loss Value:  9099869.0
+current loss:  0.09290020521088338
+Epoch:  184
+Loss Value:  9099869.0
+current loss:  0.09290020521088338
+Epoch:  185
+Loss Value:  8999547.0
+current loss:  0.08313286239303848
+Epoch:  185
+Loss Value:  8999547.0
+current loss:  0.08313286239303848
+Epoch:  186
+Loss Value:  8841359.0
+current loss:  0.0738995275482993
+Epoch:  186
+Loss Value:  8841359.0
+current loss:  0.0738995275482993
+Epoch:  187
+Loss Value:  8659087.0
+current loss:  0.06548853745967614
+Epoch:  187
+Loss Value:  8659087.0
+current loss:  0.06548853745967614
+Epoch:  188
+Loss Value:  8452002.0
+current loss:  0.05783934036632848
+Epoch:  188
+Loss Value:  8452002.0
+current loss:  0.05783934036632848
+Epoch:  189
+Loss Value:  8699149.0
+current loss:  0.053865545406599
+Epoch:  189
+Loss Value:  8699149.0
+current loss:  0.053865545406599
+Epoch:  190
+Loss Value:  9513215.0
+current loss:  0.0533006071115261
+Epoch:  190
+Loss Value:  9513215.0
+current loss:  0.0533006071115261
+Epoch:  191
+Loss Value:  9499153.0
+current loss:  0.048157094724038334
+Epoch:  191
+Loss Value:  9499153.0
+current loss:  0.048157094724038334
+Epoch:  192
+Loss Value:  9457109.0
+current loss:  0.04338147778085587
+Epoch:  192
+Loss Value:  9457109.0
+current loss:  0.04338147778085587
+Epoch:  193
+Loss Value:  9479363.0
+current loss:  0.03934555299298009
+Epoch:  193
+Loss Value:  9479363.0
+current loss:  0.03934555299298009
+Epoch:  194
+Loss Value:  9355121.0
+current loss:  0.035134717031031375
+Epoch:  194
+Loss Value:  9355121.0
+current loss:  0.035134717031031375
+Epoch:  195
+Loss Value:  8574914.0
+current loss:  0.029139854301137757
+Epoch:  195
+Loss Value:  8574914.0
+current loss:  0.029139854301137757
+Epoch:  196
+Loss Value:  8459854.0
+current loss:  0.026013034848840266
+Epoch:  196
+Loss Value:  8459854.0
+current loss:  0.026013034848840266
+Epoch:  197
+Loss Value:  7800828.5
+current loss:  0.021703982801612117
+Epoch:  197
+Loss Value:  7800828.5
+current loss:  0.021703982801612117
+Epoch:  198
+Loss Value:  7753134.0
+current loss:  0.019518504916633372
+Epoch:  198
+Loss Value:  7753134.0
+current loss:  0.019518504916633372
+Epoch:  199
+Loss Value:  7766630.0
+current loss:  0.017691816496036808
+Epoch:  199
+Loss Value:  7766630.0
+current loss:  0.017691816496036808
+Epoch:  200
+Loss Value:  8768420.0
+current loss:  0.0180730606460627
+Epoch:  200
+Loss Value:  8768420.0
+current loss:  0.0180730606460627
+Epoch:  201
+Loss Value:  7546202.5
+current loss:  0.014073734988984964
+Epoch:  201
+Loss Value:  7546202.5
+current loss:  0.014073734988984964
+Epoch:  202
+Loss Value:  7855375.0
+current loss:  0.013256179854426037
+Epoch:  202
+Loss Value:  7855375.0
+current loss:  0.013256179854426037
+Epoch:  203
+Loss Value:  7650610.0
+current loss:  0.011682023650815623
+Epoch:  203
+Loss Value:  7650610.0
+current loss:  0.011682023650815623
+Epoch:  204
+Loss Value:  7146077.0
+current loss:  0.009873252881563876
+Epoch:  204
+Loss Value:  7146077.0
+current loss:  0.009873252881563876
+Epoch:  205
+Loss Value:  6431272.5
+current loss:  0.008040073750389232
+Epoch:  205
+Loss Value:  6431272.5
+current loss:  0.008040073750389232
+Epoch:  206
+Loss Value:  6135009.5
+current loss:  0.006939831284277338
+Epoch:  206
+Loss Value:  6135009.5
+current loss:  0.006939831284277338
+Epoch:  207
+Loss Value:  6074612.5
+current loss:  0.0062176003601817995
+Epoch:  207
+Loss Value:  6074612.5
+current loss:  0.0062176003601817995
+Epoch:  208
+Loss Value:  6098177.0
+current loss:  0.005647741388578121
+Epoch:  208
+Loss Value:  6098177.0
+current loss:  0.005647741388578121
+Epoch:  209
+Loss Value:  6064394.0
+current loss:  0.005081977496407962
+Epoch:  209
+Loss Value:  6064394.0
+current loss:  0.005081977496407962
+Epoch:  210
+Loss Value:  5922605.0
+current loss:  0.004490851030315319
+Epoch:  210
+Loss Value:  5922605.0
+current loss:  0.004490851030315319
+Epoch:  211
+Loss Value:  5759740.5
+current loss:  0.00395174897167825
+Epoch:  211
+Loss Value:  5759740.5
+current loss:  0.00395174897167825
+Epoch:  212
+Loss Value:  6388077.0
+current loss:  0.003965766373707673
+Epoch:  212
+Loss Value:  6388077.0
+current loss:  0.003965766373707673
+Epoch:  213
+Loss Value:  6515011.0
+current loss:  0.0036596764282866875
+Epoch:  213
+Loss Value:  6515011.0
+current loss:  0.0036596764282866875
+Epoch:  214
+Loss Value:  6505596.0
+current loss:  0.0033066267683848024
+Epoch:  214
+Loss Value:  6505596.0
+current loss:  0.0033066267683848024
+Epoch:  215
+Loss Value:  5792300.0
+current loss:  0.0026639108469767815
+Epoch:  215
+Loss Value:  5792300.0
+current loss:  0.0026639108469767815
+Epoch:  216
+Loss Value:  6118324.5
+current loss:  0.002546077963131777
+Epoch:  216
+Loss Value:  6118324.5
+current loss:  0.002546077963131777
+Epoch:  217
+Loss Value:  6305191.0
+current loss:  0.002374149099324158
+Epoch:  217
+Loss Value:  6305191.0
+current loss:  0.002374149099324158
+Epoch:  218
+Loss Value:  6410976.5
+current loss:  0.0021842607381793505
+Epoch:  218
+Loss Value:  6410976.5
+current loss:  0.0021842607381793505
+Epoch:  219
+Loss Value:  5930954.0
+current loss:  0.001828417637633084
+Epoch:  219
+Loss Value:  5930954.0
+current loss:  0.001828417637633084
+Epoch:  220
+Loss Value:  5789694.0
+current loss:  0.0016150166680474656
+Epoch:  220
+Loss Value:  5789694.0
+current loss:  0.0016150166680474656
+Epoch:  221
+Loss Value:  5621945.0
+current loss:  0.0014189874109852877
+Epoch:  221
+Loss Value:  5621945.0
+current loss:  0.0014189874109852877
+Epoch:  222
+Loss Value:  5524966.5
+current loss:  0.001261804729271671
+Epoch:  222
+Loss Value:  5524966.5
+current loss:  0.001261804729271671
+Epoch:  223
+Loss Value:  5131421.5
+current loss:  0.0010604025002448746
+Epoch:  223
+Loss Value:  5131421.5
+current loss:  0.0010604025002448746
+Epoch:  224
+Loss Value:  4812581.0
+current loss:  0.0008998739037550986
+Epoch:  224
+Loss Value:  4812581.0
+current loss:  0.0008998739037550986
+Epoch:  225
+Loss Value:  4906982.5
+current loss:  0.00083021134980588
+Epoch:  225
+Loss Value:  4906982.5
+current loss:  0.00083021134980588
+Epoch:  226
+Loss Value:  4798371.0
+current loss:  0.000734579040586099
+Epoch:  226
+Loss Value:  4798371.0
+current loss:  0.000734579040586099
+Epoch:  227
+Loss Value:  4566537.5
+current loss:  0.0006325608205955024
+Epoch:  227
+Loss Value:  4566537.5
+current loss:  0.0006325608205955024
+Epoch:  228
+Loss Value:  4478436.5
+current loss:  0.0005613222189156363
+Epoch:  228
+Loss Value:  4478436.5
+current loss:  0.0005613222189156363
+Epoch:  229
+Loss Value:  4372866.0
+current loss:  0.000495932458617425
+Epoch:  229
+Loss Value:  4372866.0
+current loss:  0.000495932458617425
+Epoch:  230
+Loss Value:  4279238.5
+current loss:  0.0004391303040234455
+Epoch:  230
+Loss Value:  4279238.5
+current loss:  0.0004391303040234455
+Epoch:  231
+Loss Value:  3671594.75
+current loss:  0.00034091978683707604
+Epoch:  231
+Loss Value:  3671594.75
+current loss:  0.00034091978683707604
+Epoch:  232
+Loss Value:  3760880.25
+current loss:  0.0003159784942100465
+Epoch:  232
+Loss Value:  3760880.25
+current loss:  0.0003159784942100465
+Epoch:  233
+Loss Value:  3917164.0
+current loss:  0.0002977901484216717
+Epoch:  233
+Loss Value:  3917164.0
+current loss:  0.0002977901484216717
+Epoch:  234
+Loss Value:  3829434.5
+current loss:  0.00026341698162404316
+Epoch:  234
+Loss Value:  3829434.5
+current loss:  0.00026341698162404316
+Epoch:  235
+Loss Value:  3758352.75
+current loss:  0.00023392531059903177
+Epoch:  235
+Loss Value:  3758352.75
+current loss:  0.00023392531059903177
+Epoch:  236
+Loss Value:  3855319.75
+current loss:  0.00021712539933040604
+Epoch:  236
+Loss Value:  3855319.75
+current loss:  0.00021712539933040604
+Epoch:  237
+Loss Value:  3621414.25
+current loss:  0.00018454359858669343
+Epoch:  237
+Loss Value:  3621414.25
+current loss:  0.00018454359858669343
+Epoch:  238
+Loss Value:  3569818.25
+current loss:  0.00016460288247031735
+Epoch:  238
+Loss Value:  3569818.25
+current loss:  0.00016460288247031735
+Epoch:  239
+Loss Value:  3593529.5
+current loss:  0.00014992812057642858
+Epoch:  239
+Loss Value:  3593529.5
+current loss:  0.00014992812057642858
+Epoch:  240
+Loss Value:  3371905.0
+current loss:  0.0001272939504552741
+Epoch:  240
+Loss Value:  3371905.0
+current loss:  0.0001272939504552741
+Epoch:  241
+Loss Value:  3468038.25
+current loss:  0.00011846412879966913
+Epoch:  241
+Loss Value:  3468038.25
+current loss:  0.00011846412879966913
+Epoch:  242
+Loss Value:  3389064.25
+current loss:  0.00010474983323460384
+Epoch:  242
+Loss Value:  3389064.25
+current loss:  0.00010474983323460384
+Epoch:  243
+Loss Value:  3240067.5
+current loss:  9.061459373674019e-05
+Epoch:  243
+Loss Value:  3240067.5
+current loss:  9.061459373674019e-05
+Epoch:  244
+Loss Value:  3230044.5
+current loss:  8.173783817085497e-05
+Epoch:  244
+Loss Value:  3230044.5
+current loss:  8.173783817085497e-05
+Epoch:  245
+Loss Value:  3253201.75
+current loss:  7.448969406890093e-05
+Epoch:  245
+Loss Value:  3253201.75
+current loss:  7.448969406890093e-05
+Epoch:  246
+Loss Value:  3224921.75
+current loss:  6.681514673144689e-05
+Epoch:  246
+Loss Value:  3224921.75
+current loss:  6.681514673144689e-05
+Epoch:  247
+Loss Value:  3266332.25
+current loss:  6.123315769768427e-05
+Epoch:  247
+Loss Value:  3266332.25
+current loss:  6.123315769768427e-05
+Epoch:  248
+Loss Value:  3301831.0
+current loss:  5.600820954533067e-05
+Epoch:  248
+Loss Value:  3301831.0
+current loss:  5.600820954533067e-05
+Epoch:  249
+Loss Value:  3279708.75
+current loss:  5.033877921660072e-05
+Epoch:  249
+Loss Value:  3279708.75
+current loss:  5.033877921660072e-05
+Epoch:  250
+Loss Value:  3387452.5
+current loss:  4.7044750165232035e-05
+Epoch:  250
+Loss Value:  3387452.5
+current loss:  4.7044750165232035e-05
+Epoch:  251
+Loss Value:  3450301.25
+current loss:  4.335762848397285e-05
+Epoch:  251
+Loss Value:  3450301.25
+current loss:  4.335762848397285e-05
+Epoch:  252
+Loss Value:  3593352.75
+current loss:  4.085816979338252e-05
+Epoch:  252
+Loss Value:  3593352.75
+current loss:  4.085816979338252e-05
+Epoch:  253
+Loss Value:  3665832.75
+current loss:  3.7715707127747234e-05
+Epoch:  253
+Loss Value:  3665832.75
+current loss:  3.7715707127747234e-05
+Epoch:  254
+Loss Value:  3694436.25
+current loss:  3.4392863540744125e-05
+Epoch:  254
+Loss Value:  3694436.25
+current loss:  3.4392863540744125e-05
+Epoch:  255
+Loss Value:  3519541.75
+current loss:  2.9646732363464155e-05
+Epoch:  255
+Loss Value:  3519541.75
+current loss:  2.9646732363464155e-05
+Epoch:  256
+Loss Value:  3662083.5
+current loss:  2.7911906768049947e-05
+Epoch:  256
+Loss Value:  3662083.5
+current loss:  2.7911906768049947e-05
+Epoch:  257
+Loss Value:  3656727.5
+current loss:  2.521879973696553e-05
+Epoch:  257
+Loss Value:  3656727.5
+current loss:  2.521879973696553e-05
+Epoch:  258
+Loss Value:  3683668.75
+current loss:  2.2987033921580512e-05
+Epoch:  258
+Loss Value:  3683668.75
+current loss:  2.2987033921580512e-05
+Epoch:  259
+Loss Value:  3549024.0
+current loss:  2.003926806883308e-05
+Epoch:  259
+Loss Value:  3549024.0
+current loss:  2.003926806883308e-05
+Epoch:  260
+Loss Value:  3596765.5
+current loss:  1.83761951525667e-05
+Epoch:  260
+Loss Value:  3596765.5
+current loss:  1.83761951525667e-05
+Epoch:  261
+Loss Value:  3773936.25
+current loss:  1.7446510736148085e-05
+Epoch:  261
+Loss Value:  3773936.25
+current loss:  1.7446510736148085e-05
+Epoch:  262
+Loss Value:  3830904.0
+current loss:  1.60245500210318e-05
+Epoch:  262
+Loss Value:  3830904.0
+current loss:  1.60245500210318e-05
+Epoch:  263
+Loss Value:  4039701.25
+current loss:  1.5289890481280282e-05
+Epoch:  263
+Loss Value:  4039701.25
+current loss:  1.5289890481280282e-05
+Epoch:  264
+Loss Value:  3989428.25
+current loss:  1.3662693835641297e-05
+Epoch:  264
+Loss Value:  3989428.25
+current loss:  1.3662693835641297e-05
+Epoch:  265
+Loss Value:  3790234.75
+current loss:  1.1745251983548534e-05
+Epoch:  265
+Loss Value:  3790234.75
+current loss:  1.1745251983548534e-05
+Epoch:  266
+Loss Value:  3620830.0
+current loss:  1.0152544840390122e-05
+Epoch:  266
+Loss Value:  3620830.0
+current loss:  1.0152544840390122e-05
+Epoch:  267
+Loss Value:  3554654.75
+current loss:  9.018509330567535e-06
+Epoch:  267
+Loss Value:  3554654.75
+current loss:  9.018509330567535e-06
+Epoch:  268
+Loss Value:  3453018.75
+current loss:  7.926962826638322e-06
+Epoch:  268
+Loss Value:  3453018.75
+current loss:  7.926962826638322e-06
+Epoch:  269
+Loss Value:  3449295.0
+current loss:  7.1648776012339015e-06
+Epoch:  269
+Loss Value:  3449295.0
+current loss:  7.1648776012339015e-06
+Epoch:  270
+Loss Value:  3411377.5
+current loss:  6.4117823153430565e-06
+Epoch:  270
+Loss Value:  3411377.5
+current loss:  6.4117823153430565e-06
+Epoch:  271
+Loss Value:  3370065.75
+current loss:  5.73136298391343e-06
+Epoch:  271
+Loss Value:  3370065.75
+current loss:  5.73136298391343e-06
+Epoch:  272
+Loss Value:  3437966.0
+current loss:  5.290438493044748e-06
+Epoch:  272
+Loss Value:  3437966.0
+current loss:  5.290438493044748e-06
+Epoch:  273
+Loss Value:  3266540.25
+current loss:  4.54829534452187e-06
+Epoch:  273
+Loss Value:  3266540.25
+current loss:  4.54829534452187e-06
+Epoch:  274
+Loss Value:  3378235.75
+current loss:  4.256191395159709e-06
+Epoch:  274
+Loss Value:  3378235.75
+current loss:  4.256191395159709e-06
+Epoch:  275
+Loss Value:  3379177.0
+current loss:  3.852234249994866e-06
+Epoch:  275
+Loss Value:  3379177.0
+current loss:  3.852234249994866e-06
+Epoch:  276
+Loss Value:  3521557.5
+current loss:  3.632512215411418e-06
+Epoch:  276
+Loss Value:  3521557.5
+current loss:  3.632512215411418e-06
+Epoch:  277
+Loss Value:  3613906.0
+current loss:  3.373026112921096e-06
+Epoch:  277
+Loss Value:  3613906.0
+current loss:  3.373026112921096e-06
+Epoch:  278
+Loss Value:  3730069.0
+current loss:  3.150142998236415e-06
+Epoch:  278
+Loss Value:  3730069.0
+current loss:  3.150142998236415e-06
+Epoch:  279
+Loss Value:  3971216.75
+current loss:  3.0346425748488907e-06
+Epoch:  279
+Loss Value:  3971216.75
+current loss:  3.0346425748488907e-06
+Epoch:  280
+Loss Value:  3933606.5
+current loss:  2.7198529204260676e-06
+Epoch:  280
+Loss Value:  3933606.5
+current loss:  2.7198529204260676e-06
+Epoch:  281
+Loss Value:  4090249.0
+current loss:  2.5590266320305195e-06
+Epoch:  281
+Loss Value:  4090249.0
+current loss:  2.5590266320305195e-06
+Epoch:  282
+Loss Value:  4165860.0
+current loss:  2.3583066795171375e-06
+Epoch:  282
+Loss Value:  4165860.0
+current loss:  2.3583066795171375e-06
+Epoch:  283
+Loss Value:  4179948.75
+current loss:  2.141100826382336e-06
+Epoch:  283
+Loss Value:  4179948.75
+current loss:  2.141100826382336e-06
+Epoch:  284
+Loss Value:  4082040.0
+current loss:  1.891968798824725e-06
+Epoch:  284
+Loss Value:  4082040.0
+current loss:  1.891968798824725e-06
+Epoch:  285
+Loss Value:  4189240.5
+current loss:  1.7568818620807753e-06
+Epoch:  285
+Loss Value:  4189240.5
+current loss:  1.7568818620807753e-06
+Epoch:  286
+Loss Value:  4175271.75
+current loss:  1.5843917217975675e-06
+Epoch:  286
+Loss Value:  4175271.75
+current loss:  1.5843917217975675e-06
+Epoch:  287
+Loss Value:  4086181.5
+current loss:  1.4030269802128234e-06
+Epoch:  287
+Loss Value:  4086181.5
+current loss:  1.4030269802128234e-06
+Epoch:  288
+Loss Value:  4025989.75
+current loss:  1.2508106951237476e-06
+Epoch:  288
+Loss Value:  4025989.75
+current loss:  1.2508106951237476e-06
+Epoch:  289
+Loss Value:  3469513.75
+current loss:  9.753446047946412e-07
+Epoch:  289
+Loss Value:  3469513.75
+current loss:  9.753446047946412e-07
+Epoch:  290
+Loss Value:  3558960.25
+current loss:  9.052804928304984e-07
+Epoch:  290
+Loss Value:  3558960.25
+current loss:  9.052804928304984e-07
+Epoch:  291
+Loss Value:  3571618.5
+current loss:  8.220450914329998e-07
+Epoch:  291
+Loss Value:  3571618.5
+current loss:  8.220450914329998e-07
+Epoch:  292
+Loss Value:  3228658.5
+current loss:  6.723930872673297e-07
+Epoch:  292
+Loss Value:  3228658.5
+current loss:  6.723930872673297e-07
+Epoch:  293
+Loss Value:  3197383.75
+current loss:  6.025130303043394e-07
+Epoch:  293
+Loss Value:  3197383.75
+current loss:  6.025130303043394e-07
+Epoch:  294
+Loss Value:  3120839.0
+current loss:  5.321249184200745e-07
+Epoch:  294
+Loss Value:  3120839.0
+current loss:  5.321249184200745e-07
+Epoch:  295
+Loss Value:  3090362.25
+current loss:  4.767845501221289e-07
+Epoch:  295
+Loss Value:  3090362.25
+current loss:  4.767845501221289e-07
+Epoch:  296
+Loss Value:  3063241.75
+current loss:  4.2762649764745507e-07
+Epoch:  296
+Loss Value:  3063241.75
+current loss:  4.2762649764745507e-07
+Epoch:  297
+Loss Value:  3106152.25
+current loss:  3.923526828560875e-07
+Epoch:  297
+Loss Value:  3106152.25
+current loss:  3.923526828560875e-07
+Epoch:  298
+Loss Value:  3204077.75
+current loss:  3.662077115661242e-07
+Epoch:  298
+Loss Value:  3204077.75
+current loss:  3.662077115661242e-07
+Epoch:  299
+Loss Value:  3130965.5
+current loss:  3.2379733743815776e-07
+Epoch:  299
+Loss Value:  3130965.5
+current loss:  3.2379733743815776e-07
+Epoch:  300
+Loss Value:  3030430.0
+current loss:  2.835762137346233e-07
+Epoch:  300
+Loss Value:  3030430.0
+current loss:  2.835762137346233e-07
+Epoch:  301
+Loss Value:  3067007.25
+current loss:  2.5968741141118976e-07
+Epoch:  301
+Loss Value:  3067007.25
+current loss:  2.5968741141118976e-07
+Epoch:  302
+Loss Value:  2925036.0
+current loss:  2.240979388282578e-07
+Epoch:  302
+Loss Value:  2925036.0
+current loss:  2.240979388282578e-07
+Epoch:  303
+Loss Value:  2663666.25
+current loss:  1.8465327145647366e-07
+Epoch:  303
+Loss Value:  2663666.25
+current loss:  1.8465327145647366e-07
+Epoch:  304
+Loss Value:  2797243.25
+current loss:  1.754599432964164e-07
+Epoch:  304
+Loss Value:  2797243.25
+current loss:  1.754599432964164e-07
+Epoch:  1
+Loss Value:  1593136.375
+current loss:  1577284.4032085023
+Epoch:  1
+Loss Value:  1593136.375
+current loss:  1577284.4032085023
+Epoch:  2
+Loss Value:  1626670.375
+current loss:  1594460.143482402
+Epoch:  2
+Loss Value:  1626670.375
+current loss:  1594460.143482402
+Epoch:  3
+Loss Value:  1617313.5
+current loss:  1569514.6624227052
+Epoch:  3
+Loss Value:  1617313.5
+current loss:  1569514.6624227052
+Epoch:  4
+Loss Value:  1595651.25
+current loss:  1533084.8695702034
+Epoch:  4
+Loss Value:  1595651.25
+current loss:  1533084.8695702034
+Epoch:  5
+Loss Value:  1558770.625
+current loss:  1482748.4845473683
+Epoch:  5
+Loss Value:  1558770.625
+current loss:  1482748.4845473683
+Epoch:  6
+Loss Value:  1529104.0
+current loss:  1440055.915361809
+Epoch:  6
+Loss Value:  1529104.0
+current loss:  1440055.915361809
+Epoch:  7
+Loss Value:  1542898.875
+current loss:  1438589.3757898402
+Epoch:  7
+Loss Value:  1542898.875
+current loss:  1438589.3757898402
+Epoch:  8
+Loss Value:  1527259.75
+current loss:  1409838.4404033667
+Epoch:  8
+Loss Value:  1527259.75
+current loss:  1409838.4404033667
+Epoch:  9
+Loss Value:  1521181.75
+current loss:  1390255.4397904612
+Epoch:  9
+Loss Value:  1521181.75
+current loss:  1390255.4397904612
+Epoch:  10
+Loss Value:  1519149.125
+current loss:  1374582.971876587
+Epoch:  10
+Loss Value:  1519149.125
+current loss:  1374582.971876587
+Epoch:  11
+Loss Value:  1479041.625
+current loss:  1324975.975199447
+Epoch:  11
+Loss Value:  1479041.625
+current loss:  1324975.975199447
+Epoch:  12
+Loss Value:  1483896.875
+current loss:  1316098.4644182252
+Epoch:  12
+Loss Value:  1483896.875
+current loss:  1316098.4644182252
+Epoch:  13
+Loss Value:  1525452.125
+current loss:  1339492.541050561
+Epoch:  13
+Loss Value:  1525452.125
+current loss:  1339492.541050561
+Epoch:  14
+Loss Value:  1518258.5
+current loss:  1319910.5304392378
+Epoch:  14
+Loss Value:  1518258.5
+current loss:  1319910.5304392378
+Epoch:  15
+Loss Value:  1531230.125
+current loss:  1317941.9823298382
+Epoch:  15
+Loss Value:  1531230.125
+current loss:  1317941.9823298382
+Epoch:  16
+Loss Value:  1566629.75
+current loss:  1334993.8110721884
+Epoch:  16
+Loss Value:  1566629.75
+current loss:  1334993.8110721884
+Epoch:  17
+Loss Value:  1605052.875
+current loss:  1354126.6394143733
+Epoch:  17
+Loss Value:  1605052.875
+current loss:  1354126.6394143733
+Epoch:  18
+Loss Value:  1602905.875
+current loss:  1338859.5290836198
+Epoch:  18
+Loss Value:  1602905.875
+current loss:  1338859.5290836198
+Epoch:  19
+Loss Value:  1606741.75
+current loss:  1328709.7660506424
+Epoch:  19
+Loss Value:  1606741.75
+current loss:  1328709.7660506424
+Epoch:  20
+Loss Value:  1601631.625
+current loss:  1311305.0664897617
+Epoch:  20
+Loss Value:  1601631.625
+current loss:  1311305.0664897617
+Epoch:  21
+Loss Value:  1592427.75
+current loss:  1290796.8469957516
+Epoch:  21
+Loss Value:  1592427.75
+current loss:  1290796.8469957516
+Epoch:  22
+Loss Value:  1579545.75
+current loss:  1267615.1566167416
+Epoch:  22
+Loss Value:  1579545.75
+current loss:  1267615.1566167416
+Epoch:  23
+Loss Value:  1568241.125
+current loss:  1246020.2706401313
+Epoch:  23
+Loss Value:  1568241.125
+current loss:  1246020.2706401313
+Epoch:  24
+Loss Value:  1564931.625
+current loss:  1231018.8168891557
+Epoch:  24
+Loss Value:  1564931.625
+current loss:  1231018.8168891557
+Epoch:  25
+Loss Value:  1581177.0
+current loss:  1231421.8857744948
+Epoch:  25
+Loss Value:  1581177.0
+current loss:  1231421.8857744948
+Epoch:  26
+Loss Value:  1605965.0
+current loss:  1238281.8599950243
+Epoch:  26
+Loss Value:  1605965.0
+current loss:  1238281.8599950243
+Epoch:  27
+Loss Value:  1600814.75
+current loss:  1222029.154381976
+Epoch:  27
+Loss Value:  1600814.75
+current loss:  1222029.154381976
+Epoch:  28
+Loss Value:  1622002.25
+current loss:  1225882.929154605
+Epoch:  28
+Loss Value:  1622002.25
+current loss:  1225882.929154605
+Epoch:  29
+Loss Value:  1620147.875
+current loss:  1212297.6289523314
+Epoch:  29
+Loss Value:  1620147.875
+current loss:  1212297.6289523314
+Epoch:  30
+Loss Value:  1622558.625
+current loss:  1202020.9935242748
+Epoch:  30
+Loss Value:  1622558.625
+current loss:  1202020.9935242748
+Epoch:  31
+Loss Value:  1623020.125
+current loss:  1190399.1705720155
+Epoch:  31
+Loss Value:  1623020.125
+current loss:  1190399.1705720155
+Epoch:  32
+Loss Value:  1620992.0
+current loss:  1177081.7799041565
+Epoch:  32
+Loss Value:  1620992.0
+current loss:  1177081.7799041565
+Epoch:  33
+Loss Value:  1629846.875
+current loss:  1171735.600297358
+Epoch:  33
+Loss Value:  1629846.875
+current loss:  1171735.600297358
+Epoch:  34
+Loss Value:  1637532.375
+current loss:  1165546.9470879727
+Epoch:  34
+Loss Value:  1637532.375
+current loss:  1165546.9470879727
+Epoch:  35
+Loss Value:  1675407.375
+current loss:  1180639.6225893942
+Epoch:  35
+Loss Value:  1675407.375
+current loss:  1180639.6225893942
+Epoch:  36
+Loss Value:  1716581.75
+current loss:  1197618.448740581
+Epoch:  36
+Loss Value:  1716581.75
+current loss:  1197618.448740581
+Epoch:  37
+Loss Value:  1749812.25
+current loss:  1208655.3932447934
+Epoch:  37
+Loss Value:  1749812.25
+current loss:  1208655.3932447934
+Epoch:  38
+Loss Value:  1763331.875
+current loss:  1205874.6209465656
+Epoch:  38
+Loss Value:  1763331.875
+current loss:  1205874.6209465656
+Epoch:  39
+Loss Value:  1800553.125
+current loss:  1219076.8711804033
+Epoch:  39
+Loss Value:  1800553.125
+current loss:  1219076.8711804033
+Epoch:  40
+Loss Value:  1809950.375
+current loss:  1213246.0186922227
+Epoch:  40
+Loss Value:  1809950.375
+current loss:  1213246.0186922227
+Epoch:  41
+Loss Value:  1858972.125
+current loss:  1233707.3157526953
+Epoch:  41
+Loss Value:  1858972.125
+current loss:  1233707.3157526953
+Epoch:  42
+Loss Value:  1871854.875
+current loss:  1229896.2927740605
+Epoch:  42
+Loss Value:  1871854.875
+current loss:  1229896.2927740605
+Epoch:  43
+Loss Value:  1871413.625
+current loss:  1217371.58305163
+Epoch:  43
+Loss Value:  1871413.625
+current loss:  1217371.58305163
+Epoch:  44
+Loss Value:  1887947.875
+current loss:  1215907.192606522
+Epoch:  44
+Loss Value:  1887947.875
+current loss:  1215907.192606522
+Epoch:  45
+Loss Value:  1906793.125
+current loss:  1215824.975818855
+Epoch:  45
+Loss Value:  1906793.125
+current loss:  1215824.975818855
+Epoch:  46
+Loss Value:  1940916.125
+current loss:  1225268.6070131764
+Epoch:  46
+Loss Value:  1940916.125
+current loss:  1225268.6070131764
+Epoch:  47
+Loss Value:  1995350.875
+current loss:  1247098.8228948717
+Epoch:  47
+Loss Value:  1995350.875
+current loss:  1247098.8228948717
+Epoch:  48
+Loss Value:  2041539.5
+current loss:  1263270.736316213
+Epoch:  48
+Loss Value:  2041539.5
+current loss:  1263270.736316213
+Epoch:  49
+Loss Value:  2107192.0
+current loss:  1290921.436814248
+Epoch:  49
+Loss Value:  2107192.0
+current loss:  1290921.436814248
+Epoch:  50
+Loss Value:  2147319.75
+current loss:  1302415.264581467
+Epoch:  50
+Loss Value:  2147319.75
+current loss:  1302415.264581467
+Epoch:  51
+Loss Value:  2217003.25
+current loss:  1331300.6498374247
+Epoch:  51
+Loss Value:  2217003.25
+current loss:  1331300.6498374247
+Epoch:  52
+Loss Value:  2209907.0
+current loss:  1313835.1206031684
+Epoch:  52
+Loss Value:  2209907.0
+current loss:  1313835.1206031684
+Epoch:  53
+Loss Value:  2302579.75
+current loss:  1355309.8839307446
+Epoch:  53
+Loss Value:  2302579.75
+current loss:  1355309.8839307446
+Epoch:  54
+Loss Value:  2364779.0
+current loss:  1378070.8295007108
+Epoch:  54
+Loss Value:  2364779.0
+current loss:  1378070.8295007108
+Epoch:  55
+Loss Value:  2404557.25
+current loss:  1387308.8494365243
+Epoch:  55
+Loss Value:  2404557.25
+current loss:  1387308.8494365243
+Epoch:  56
+Loss Value:  2429513.75
+current loss:  1387760.2747453237
+Epoch:  56
+Loss Value:  2429513.75
+current loss:  1387760.2747453237
+Epoch:  57
+Loss Value:  2458029.25
+current loss:  1390078.0699425442
+Epoch:  57
+Loss Value:  2458029.25
+current loss:  1390078.0699425442
+Epoch:  58
+Loss Value:  2506147.5
+current loss:  1403187.891621966
+Epoch:  58
+Loss Value:  2506147.5
+current loss:  1403187.891621966
+Epoch:  59
+Loss Value:  2633736.75
+current loss:  1459952.1413329854
+Epoch:  59
+Loss Value:  2633736.75
+current loss:  1459952.1413329854
+Epoch:  60
+Loss Value:  2686126.5
+current loss:  1474177.4792205207
+Epoch:  60
+Loss Value:  2686126.5
+current loss:  1474177.4792205207
+Epoch:  61
+Loss Value:  2723835.75
+current loss:  1479998.521978692
+Epoch:  61
+Loss Value:  2723835.75
+current loss:  1479998.521978692
+Epoch:  62
+Loss Value:  2778445.0
+current loss:  1494649.0329127354
+Epoch:  62
+Loss Value:  2778445.0
+current loss:  1494649.0329127354
+Epoch:  63
+Loss Value:  2825543.0
+current loss:  1504861.0351924312
+Epoch:  63
+Loss Value:  2825543.0
+current loss:  1504861.0351924312
+Epoch:  64
+Loss Value:  2858410.5
+current loss:  1507218.2014551023
+Epoch:  64
+Loss Value:  2858410.5
+current loss:  1507218.2014551023
+Epoch:  65
+Loss Value:  2954150.25
+current loss:  1542201.6619299997
+Epoch:  65
+Loss Value:  2954150.25
+current loss:  1542201.6619299997
+Epoch:  66
+Loss Value:  2974253.0
+current loss:  1537246.6321659398
+Epoch:  66
+Loss Value:  2974253.0
+current loss:  1537246.6321659398
+Epoch:  67
+Loss Value:  3009825.0
+current loss:  1540153.27013638
+Epoch:  67
+Loss Value:  3009825.0
+current loss:  1540153.27013638
+Epoch:  68
+Loss Value:  3027292.5
+current loss:  1533677.8213609066
+Epoch:  68
+Loss Value:  3027292.5
+current loss:  1533677.8213609066
+Epoch:  69
+Loss Value:  3090059.5
+current loss:  1549899.897190221
+Epoch:  69
+Loss Value:  3090059.5
+current loss:  1549899.897190221
+Epoch:  70
+Loss Value:  3125530.5
+current loss:  1552092.512851816
+Epoch:  70
+Loss Value:  3125530.5
+current loss:  1552092.512851816
+Epoch:  71
+Loss Value:  3174014.75
+current loss:  1560485.9344930158
+Epoch:  71
+Loss Value:  3174014.75
+current loss:  1560485.9344930158
+Epoch:  72
+Loss Value:  3219035.5
+current loss:  1566872.7916402353
+Epoch:  72
+Loss Value:  3219035.5
+current loss:  1566872.7916402353
+Epoch:  73
+Loss Value:  3287152.0
+current loss:  1584108.100592989
+Epoch:  73
+Loss Value:  3287152.0
+current loss:  1584108.100592989
+Epoch:  74
+Loss Value:  3300448.75
+current loss:  1574690.0260890035
+Epoch:  74
+Loss Value:  3300448.75
+current loss:  1574690.0260890035
+Epoch:  75
+Loss Value:  3350596.25
+current loss:  1582709.600239471
+Epoch:  75
+Loss Value:  3350596.25
+current loss:  1582709.600239471
+Epoch:  76
+Loss Value:  3379426.75
+current loss:  1580444.4335142097
+Epoch:  76
+Loss Value:  3379426.75
+current loss:  1580444.4335142097
+Epoch:  77
+Loss Value:  3502087.25
+current loss:  1621512.1631161307
+Epoch:  77
+Loss Value:  3502087.25
+current loss:  1621512.1631161307
+Epoch:  78
+Loss Value:  3512753.75
+current loss:  1610267.4352349662
+Epoch:  78
+Loss Value:  3512753.75
+current loss:  1610267.4352349662
+Epoch:  79
+Loss Value:  3555601.5
+current loss:  1613691.2348731372
+Epoch:  79
+Loss Value:  3555601.5
+current loss:  1613691.2348731372
+Epoch:  80
+Loss Value:  3588741.75
+current loss:  1612525.613011725
+Epoch:  80
+Loss Value:  3588741.75
+current loss:  1612525.613011725
+Epoch:  81
+Loss Value:  3619870.75
+current loss:  1610328.7018219875
+Epoch:  81
+Loss Value:  3619870.75
+current loss:  1610328.7018219875
+Epoch:  82
+Loss Value:  3685691.25
+current loss:  1623295.0952357845
+Epoch:  82
+Loss Value:  3685691.25
+current loss:  1623295.0952357845
+Epoch:  83
+Loss Value:  3847019.5
+current loss:  1677490.1074400307
+Epoch:  83
+Loss Value:  3847019.5
+current loss:  1677490.1074400307
+Epoch:  84
+Loss Value:  3872855.25
+current loss:  1671952.3671425595
+Epoch:  84
+Loss Value:  3872855.25
+current loss:  1671952.3671425595
+Epoch:  85
+Loss Value:  3941957.5
+current loss:  1684851.496607273
+Epoch:  85
+Loss Value:  3941957.5
+current loss:  1684851.496607273
+Epoch:  86
+Loss Value:  4051910.5
+current loss:  1714614.8845451507
+Epoch:  86
+Loss Value:  4051910.5
+current loss:  1714614.8845451507
+Epoch:  87
+Loss Value:  4141828.25
+current loss:  1735225.3620551375
+Epoch:  87
+Loss Value:  4141828.25
+current loss:  1735225.3620551375
+Epoch:  88
+Loss Value:  4206181.5
+current loss:  1744652.2096312016
+Epoch:  88
+Loss Value:  4206181.5
+current loss:  1744652.2096312016
+Epoch:  89
+Loss Value:  4345607.5
+current loss:  1784548.7190787382
+Epoch:  89
+Loss Value:  4345607.5
+current loss:  1784548.7190787382
+Epoch:  90
+Loss Value:  4395730.5
+current loss:  1787170.6536963736
+Epoch:  90
+Loss Value:  4395730.5
+current loss:  1787170.6536963736
+Epoch:  91
+Loss Value:  4436988.5
+current loss:  1785995.3530086663
+Epoch:  91
+Loss Value:  4436988.5
+current loss:  1785995.3530086663
+Epoch:  92
+Loss Value:  4434527.0
+current loss:  1767243.4477033871
+Epoch:  92
+Loss Value:  4434527.0
+current loss:  1767243.4477033871
+Epoch:  93
+Loss Value:  4451773.0
+current loss:  1756463.5548821136
+Epoch:  93
+Loss Value:  4451773.0
+current loss:  1756463.5548821136
+Epoch:  94
+Loss Value:  4511348.5
+current loss:  1762258.299102911
+Epoch:  94
+Loss Value:  4511348.5
+current loss:  1762258.299102911
+Epoch:  95
+Loss Value:  4637247.0
+current loss:  1793413.6507913151
+Epoch:  95
+Loss Value:  4637247.0
+current loss:  1793413.6507913151
+Epoch:  96
+Loss Value:  4679924.0
+current loss:  1791909.6065041902
+Epoch:  96
+Loss Value:  4679924.0
+current loss:  1791909.6065041902
+Epoch:  97
+Loss Value:  4762222.0
+current loss:  1805277.583882844
+Epoch:  97
+Loss Value:  4762222.0
+current loss:  1805277.583882844
+Epoch:  98
+Loss Value:  4829207.0
+current loss:  1812454.9857508708
+Epoch:  98
+Loss Value:  4829207.0
+current loss:  1812454.9857508708
+Epoch:  99
+Loss Value:  4871724.0
+current loss:  1810219.0834926846
+Epoch:  99
+Loss Value:  4871724.0
+current loss:  1810219.0834926846
+Epoch:  100
+Loss Value:  4895718.5
+current loss:  1801034.185912692
+Epoch:  100
+Loss Value:  4895718.5
+current loss:  1801034.185912692
+Epoch:  101
+Loss Value:  5032904.5
+current loss:  1833079.3412709278
+Epoch:  101
+Loss Value:  5032904.5
+current loss:  1833079.3412709278
+Epoch:  102
+Loss Value:  5115641.0
+current loss:  1844674.2603419465
+Epoch:  102
+Loss Value:  5115641.0
+current loss:  1844674.2603419465
+Epoch:  103
+Loss Value:  5154118.5
+current loss:  1840056.180098213
+Epoch:  103
+Loss Value:  5154118.5
+current loss:  1840056.180098213
+Epoch:  104
+Loss Value:  5219425.0
+current loss:  1844830.203382706
+Epoch:  104
+Loss Value:  5219425.0
+current loss:  1844830.203382706
+Epoch:  105
+Loss Value:  5241878.0
+current loss:  1834330.9884352847
+Epoch:  105
+Loss Value:  5241878.0
+current loss:  1834330.9884352847
+Epoch:  106
+Loss Value:  5309117.0
+current loss:  1839374.4323720834
+Epoch:  106
+Loss Value:  5309117.0
+current loss:  1839374.4323720834
+Epoch:  107
+Loss Value:  5490293.5
+current loss:  1883217.433628562
+Epoch:  107
+Loss Value:  5490293.5
+current loss:  1883217.433628562
+Epoch:  108
+Loss Value:  5597352.0
+current loss:  1900835.6946597511
+Epoch:  108
+Loss Value:  5597352.0
+current loss:  1900835.6946597511
+Epoch:  109
+Loss Value:  5714564.0
+current loss:  1921330.6711427248
+Epoch:  109
+Loss Value:  5714564.0
+current loss:  1921330.6711427248
+Epoch:  110
+Loss Value:  5770438.5
+current loss:  1920812.1169081207
+Epoch:  110
+Loss Value:  5770438.5
+current loss:  1920812.1169081207
+Epoch:  111
+Loss Value:  5875277.0
+current loss:  1936250.1841489535
+Epoch:  111
+Loss Value:  5875277.0
+current loss:  1936250.1841489535
+Epoch:  112
+Loss Value:  5994088.0
+current loss:  1955749.8015924254
+Epoch:  112
+Loss Value:  5994088.0
+current loss:  1955749.8015924254
+Epoch:  113
+Loss Value:  6207405.0
+current loss:  2005198.2510817747
+Epoch:  113
+Loss Value:  6207405.0
+current loss:  2005198.2510817747
+Epoch:  114
+Loss Value:  6308815.5
+current loss:  2017679.2020295358
+Epoch:  114
+Loss Value:  6308815.5
+current loss:  2017679.2020295358
+Epoch:  115
+Loss Value:  6397380.0
+current loss:  2025645.7356901672
+Epoch:  115
+Loss Value:  6397380.0
+current loss:  2025645.7356901672
+Epoch:  116
+Loss Value:  6520754.0
+current loss:  2044166.2679349722
+Epoch:  116
+Loss Value:  6520754.0
+current loss:  2044166.2679349722
+Epoch:  117
+Loss Value:  6603430.5
+current loss:  2049486.5261442123
+Epoch:  117
+Loss Value:  6603430.5
+current loss:  2049486.5261442123
+Epoch:  118
+Loss Value:  6739854.5
+current loss:  2071013.989115158
+Epoch:  118
+Loss Value:  6739854.5
+current loss:  2071013.989115158
+Epoch:  119
+Loss Value:  6950671.5
+current loss:  2114542.069842414
+Epoch:  119
+Loss Value:  6950671.5
+current loss:  2114542.069842414
+Epoch:  120
+Loss Value:  7069238.5
+current loss:  2129213.718826898
+Epoch:  120
+Loss Value:  7069238.5
+current loss:  2129213.718826898
+Epoch:  121
+Loss Value:  7205793.5
+current loss:  2148748.0178335663
+Epoch:  121
+Loss Value:  7205793.5
+current loss:  2148748.0178335663
+Epoch:  122
+Loss Value:  7343989.5
+current loss:  2168167.2459732075
+Epoch:  122
+Loss Value:  7343989.5
+current loss:  2168167.2459732075
+Epoch:  123
+Loss Value:  7475454.5
+current loss:  2185019.86514098
+Epoch:  123
+Loss Value:  7475454.5
+current loss:  2185019.86514098
+Epoch:  124
+Loss Value:  7627359.0
+current loss:  2207237.319155379
+Epoch:  124
+Loss Value:  7627359.0
+current loss:  2207237.319155379
+Epoch:  125
+Loss Value:  7976724.5
+current loss:  2285369.8324822015
+Epoch:  125
+Loss Value:  7976724.5
+current loss:  2285369.8324822015
+Epoch:  126
+Loss Value:  8192051.5
+current loss:  2323708.3932684837
+Epoch:  126
+Loss Value:  8192051.5
+current loss:  2323708.3932684837
+Epoch:  127
+Loss Value:  8436549.0
+current loss:  2369249.7378827683
+Epoch:  127
+Loss Value:  8436549.0
+current loss:  2369249.7378827683
+Epoch:  128
+Loss Value:  8712730.0
+current loss:  2422463.9287775583
+Epoch:  128
+Loss Value:  8712730.0
+current loss:  2422463.9287775583
+Epoch:  129
+Loss Value:  8898538.0
+current loss:  2449507.5236139186
+Epoch:  129
+Loss Value:  8898538.0
+current loss:  2449507.5236139186
+Epoch:  130
+Loss Value:  9204177.0
+current loss:  2508430.861212419
+Epoch:  130
+Loss Value:  9204177.0
+current loss:  2508430.861212419
+Epoch:  131
+Loss Value:  9863561.0
+current loss:  2661386.585173798
+Epoch:  131
+Loss Value:  9863561.0
+current loss:  2661386.585173798
+Epoch:  132
+Loss Value:  10214710.0
+current loss:  2728709.640343591
+Epoch:  132
+Loss Value:  10214710.0
+current loss:  2728709.640343591
+Epoch:  133
+Loss Value:  10609148.0
+current loss:  2805878.4077645047
+Epoch:  133
+Loss Value:  10609148.0
+current loss:  2805878.4077645047
+Epoch:  134
+Loss Value:  11043721.0
+current loss:  2891750.5088595864
+Epoch:  134
+Loss Value:  11043721.0
+current loss:  2891750.5088595864
+Epoch:  135
+Loss Value:  11462467.0
+current loss:  2971532.93272493
+Epoch:  135
+Loss Value:  11462467.0
+current loss:  2971532.93272493
+Epoch:  136
+Loss Value:  11942250.0
+current loss:  3065107.1635736027
+Epoch:  136
+Loss Value:  11942250.0
+current loss:  3065107.1635736027
+Epoch:  137
+Loss Value:  13211443.0
+current loss:  3357119.6120351264
+Epoch:  137
+Loss Value:  13211443.0
+current loss:  3357119.6120351264
+Epoch:  138
+Loss Value:  13656675.0
+current loss:  3435726.5361073497
+Epoch:  138
+Loss Value:  13656675.0
+current loss:  3435726.5361073497
+Epoch:  139
+Loss Value:  14345847.0
+current loss:  3573196.2117243027
+Epoch:  139
+Loss Value:  14345847.0
+current loss:  3573196.2117243027
+Epoch:  140
+Loss Value:  15118907.0
+current loss:  3728276.564315501
+Epoch:  140
+Loss Value:  15118907.0
+current loss:  3728276.564315501
+Epoch:  141
+Loss Value:  15642304.0
+current loss:  3818963.454644142
+Epoch:  141
+Loss Value:  15642304.0
+current loss:  3818963.454644142
+Epoch:  142
+Loss Value:  16504222.0
+current loss:  3989301.7953804405
+Epoch:  142
+Loss Value:  16504222.0
+current loss:  3989301.7953804405
+Epoch:  143
+Loss Value:  18310424.0
+current loss:  4381847.833266177
+Epoch:  143
+Loss Value:  18310424.0
+current loss:  4381847.833266177
+Epoch:  144
+Loss Value:  19523564.0
+current loss:  4625674.26000696
+Epoch:  144
+Loss Value:  19523564.0
+current loss:  4625674.26000696
+Epoch:  145
+Loss Value:  20139136.0
+current loss:  4724042.9334801715
+Epoch:  145
+Loss Value:  20139136.0
+current loss:  4724042.9334801715
+Epoch:  146
+Loss Value:  20427184.0
+current loss:  4743933.1153793335
+Epoch:  146
+Loss Value:  20427184.0
+current loss:  4743933.1153793335
+Epoch:  147
+Loss Value:  21043778.0
+current loss:  4838500.866811705
+Epoch:  147
+Loss Value:  21043778.0
+current loss:  4838500.866811705
+Epoch:  148
+Loss Value:  21278428.0
+current loss:  4843772.162361396
+Epoch:  148
+Loss Value:  21278428.0
+current loss:  4843772.162361396
+Epoch:  149
+Loss Value:  22012304.0
+current loss:  4960971.407021409
+Epoch:  149
+Loss Value:  22012304.0
+current loss:  4960971.407021409
+Epoch:  150
+Loss Value:  22157326.0
+current loss:  4943967.698840968
+Epoch:  150
+Loss Value:  22157326.0
+current loss:  4943967.698840968
+Epoch:  151
+Loss Value:  22056570.0
+current loss:  4872516.392559483
+Epoch:  151
+Loss Value:  22056570.0
+current loss:  4872516.392559483
+Epoch:  152
+Loss Value:  22121724.0
+current loss:  4838283.998676096
+Epoch:  152
+Loss Value:  22121724.0
+current loss:  4838283.998676096
+Epoch:  153
+Loss Value:  22151318.0
+current loss:  4796550.425059079
+Epoch:  153
+Loss Value:  22151318.0
+current loss:  4796550.425059079
+Epoch:  154
+Loss Value:  21030744.0
+current loss:  4508594.062548808
+Epoch:  154
+Loss Value:  21030744.0
+current loss:  4508594.062548808
+Epoch:  155
+Loss Value:  21214924.0
+current loss:  4502824.633888342
+Epoch:  155
+Loss Value:  21214924.0
+current loss:  4502824.633888342
+Epoch:  156
+Loss Value:  20908618.0
+current loss:  4393654.840757591
+Epoch:  156
+Loss Value:  20908618.0
+current loss:  4393654.840757591
+Epoch:  157
+Loss Value:  19875240.0
+current loss:  4134947.9301895476
+Epoch:  157
+Loss Value:  19875240.0
+current loss:  4134947.9301895476
+Epoch:  158
+Loss Value:  19177600.0
+current loss:  3950108.043333973
+Epoch:  158
+Loss Value:  19177600.0
+current loss:  3950108.043333973
+Epoch:  159
+Loss Value:  16563075.0
+current loss:  3377635.201574657
+Epoch:  159
+Loss Value:  16563075.0
+current loss:  3377635.201574657
+Epoch:  160
+Loss Value:  18257626.0
+current loss:  3686151.116248688
+Epoch:  160
+Loss Value:  18257626.0
+current loss:  3686151.116248688
+Epoch:  161
+Loss Value:  17824776.0
+current loss:  3562951.9460638976
+Epoch:  161
+Loss Value:  17824776.0
+current loss:  3562951.9460638976
+Epoch:  162
+Loss Value:  14468512.0
+current loss:  2863299.7024756675
+Epoch:  162
+Loss Value:  14468512.0
+current loss:  2863299.7024756675
+Epoch:  163
+Loss Value:  15336537.0
+current loss:  3004881.162991588
+Epoch:  163
+Loss Value:  15336537.0
+current loss:  3004881.162991588
+Epoch:  164
+Loss Value:  15132797.0
+current loss:  2935460.602039482
+Epoch:  164
+Loss Value:  15132797.0
+current loss:  2935460.602039482
+Epoch:  165
+Loss Value:  17516116.0
+current loss:  3363968.4771905285
+Epoch:  165
+Loss Value:  17516116.0
+current loss:  3363968.4771905285
+Epoch:  166
+Loss Value:  20401368.0
+current loss:  3879095.304195797
+Epoch:  166
+Loss Value:  20401368.0
+current loss:  3879095.304195797
+Epoch:  167
+Loss Value:  17734776.0
+current loss:  3338519.541760471
+Epoch:  167
+Loss Value:  17734776.0
+current loss:  3338519.541760471
+Epoch:  168
+Loss Value:  17628494.0
+current loss:  3285492.5183668826
+Epoch:  168
+Loss Value:  17628494.0
+current loss:  3285492.5183668826
+Epoch:  169
+Loss Value:  17599984.0
+current loss:  3247540.6699642274
+Epoch:  169
+Loss Value:  17599984.0
+current loss:  3247540.6699642274
+Epoch:  170
+Loss Value:  15635864.0
+current loss:  2856414.7371292883
+Epoch:  170
+Loss Value:  15635864.0
+current loss:  2856414.7371292883
+Epoch:  171
+Loss Value:  14028541.0
+current loss:  2537283.1872267947
+Epoch:  171
+Loss Value:  14028541.0
+current loss:  2537283.1872267947
+Epoch:  172
+Loss Value:  13876911.0
+current loss:  2484884.9976806273
+Epoch:  172
+Loss Value:  13876911.0
+current loss:  2484884.9976806273
+Epoch:  173
+Loss Value:  15270452.0
+current loss:  2707213.072793341
+Epoch:  173
+Loss Value:  15270452.0
+current loss:  2707213.072793341
+Epoch:  174
+Loss Value:  15015511.0
+current loss:  2635528.506188923
+Epoch:  174
+Loss Value:  15015511.0
+current loss:  2635528.506188923
+Epoch:  175
+Loss Value:  14828077.0
+current loss:  2576733.414076846
+Epoch:  175
+Loss Value:  14828077.0
+current loss:  2576733.414076846
+Epoch:  176
+Loss Value:  14484213.0
+current loss:  2491934.453169058
+Epoch:  176
+Loss Value:  14484213.0
+current loss:  2491934.453169058
+Epoch:  177
+Loss Value:  14278633.0
+current loss:  2432122.2352311225
+Epoch:  177
+Loss Value:  14278633.0
+current loss:  2432122.2352311225
+Epoch:  178
+Loss Value:  13817788.0
+current loss:  2330206.167670232
+Epoch:  178
+Loss Value:  13817788.0
+current loss:  2330206.167670232
+Epoch:  179
+Loss Value:  13138411.0
+current loss:  2193591.329715314
+Epoch:  179
+Loss Value:  13138411.0
+current loss:  2193591.329715314
+Epoch:  180
+Loss Value:  11047600.0
+current loss:  1826155.9975167995
+Epoch:  180
+Loss Value:  11047600.0
+current loss:  1826155.9975167995
+Epoch:  181
+Loss Value:  9568997.0
+current loss:  1566005.9441026647
+Epoch:  181
+Loss Value:  9568997.0
+current loss:  1566005.9441026647
+Epoch:  182
+Loss Value:  9281181.0
+current loss:  1503790.3210782662
+Epoch:  182
+Loss Value:  9281181.0
+current loss:  1503790.3210782662
+Epoch:  183
+Loss Value:  9215854.0
+current loss:  1478348.0202350968
+Epoch:  183
+Loss Value:  9215854.0
+current loss:  1478348.0202350968
+Epoch:  184
+Loss Value:  9099632.0
+current loss:  1445180.1327601708
+Epoch:  184
+Loss Value:  9099632.0
+current loss:  1445180.1327601708
+Epoch:  185
+Loss Value:  8999313.0
+current loss:  1415026.474889391
+Epoch:  185
+Loss Value:  8999313.0
+current loss:  1415026.474889391
+Epoch:  186
+Loss Value:  8841128.0
+current loss:  1376321.6511801514
+Epoch:  186
+Loss Value:  8841128.0
+current loss:  1376321.6511801514
+Epoch:  187
+Loss Value:  8658859.0
+current loss:  1334535.0562209068
+Epoch:  187
+Loss Value:  8658859.0
+current loss:  1334535.0562209068
+Epoch:  188
+Loss Value:  8451774.0
+current loss:  1289657.0884932813
+Epoch:  188
+Loss Value:  8451774.0
+current loss:  1289657.0884932813
+Epoch:  189
+Loss Value:  8698921.0
+current loss:  1314161.730394692
+Epoch:  189
+Loss Value:  8698921.0
+current loss:  1314161.730394692
+Epoch:  190
+Loss Value:  9512987.0
+current loss:  1422844.3302728771
+Epoch:  190
+Loss Value:  9512987.0
+current loss:  1422844.3302728771
+Epoch:  191
+Loss Value:  9498928.0
+current loss:  1406604.9304824627
+Epoch:  191
+Loss Value:  9498928.0
+current loss:  1406604.9304824627
+Epoch:  192
+Loss Value:  9456884.0
+current loss:  1386445.0344591143
+Epoch:  192
+Loss Value:  9456884.0
+current loss:  1386445.0344591143
+Epoch:  193
+Loss Value:  9479136.0
+current loss:  1375879.5135812631
+Epoch:  193
+Loss Value:  9479136.0
+current loss:  1375879.5135812631
+Epoch:  194
+Loss Value:  9354896.0
+current loss:  1344335.504959634
+Epoch:  194
+Loss Value:  9354896.0
+current loss:  1344335.504959634
+Epoch:  195
+Loss Value:  8574694.0
+current loss:  1219956.6279884486
+Epoch:  195
+Loss Value:  8574694.0
+current loss:  1219956.6279884486
+Epoch:  196
+Loss Value:  8459634.0
+current loss:  1191610.6868099836
+Epoch:  196
+Loss Value:  8459634.0
+current loss:  1191610.6868099836
+Epoch:  197
+Loss Value:  7800611.5
+current loss:  1087848.7563449729
+Epoch:  197
+Loss Value:  7800611.5
+current loss:  1087848.7563449729
+Epoch:  198
+Loss Value:  7752920.0
+current loss:  1070439.751332367
+Epoch:  198
+Loss Value:  7752920.0
+current loss:  1070439.751332367
+Epoch:  199
+Loss Value:  7766414.0
+current loss:  1061633.2659160728
+Epoch:  199
+Loss Value:  7766414.0
+current loss:  1061633.2659160728
+Epoch:  200
+Loss Value:  8768203.0
+current loss:  1186647.2364811173
+Epoch:  200
+Loss Value:  8768203.0
+current loss:  1186647.2364811173
+Epoch:  201
+Loss Value:  7545990.5
+current loss:  1011077.2661583927
+Epoch:  201
+Loss Value:  7545990.5
+current loss:  1011077.2661583927
+Epoch:  202
+Loss Value:  7855164.5
+current loss:  1042030.5000283618
+Epoch:  202
+Loss Value:  7855164.5
+current loss:  1042030.5000283618
+Epoch:  203
+Loss Value:  7650403.5
+current loss:  1004769.7306687551
+Epoch:  203
+Loss Value:  7650403.5
+current loss:  1004769.7306687551
+Epoch:  204
+Loss Value:  7145873.0
+current loss:  929168.6542909499
+Epoch:  204
+Loss Value:  7145873.0
+current loss:  929168.6542909499
+Epoch:  205
+Loss Value:  6431072.0
+current loss:  827903.4338862273
+Epoch:  205
+Loss Value:  6431072.0
+current loss:  827903.4338862273
+Epoch:  206
+Loss Value:  6134812.0
+current loss:  781906.1439583851
+Epoch:  206
+Loss Value:  6134812.0
+current loss:  781906.1439583851
+Epoch:  207
+Loss Value:  6074417.5
+current loss:  766505.1206402674
+Epoch:  207
+Loss Value:  6074417.5
+current loss:  766505.1206402674
+Epoch:  208
+Loss Value:  6097981.5
+current loss:  761822.1227780299
+Epoch:  208
+Loss Value:  6097981.5
+current loss:  761822.1227780299
+Epoch:  209
+Loss Value:  6064202.5
+current loss:  750063.8382420491
+Epoch:  209
+Loss Value:  6064202.5
+current loss:  750063.8382420491
+Epoch:  210
+Loss Value:  5922415.5
+current loss:  725237.848760098
+Epoch:  210
+Loss Value:  5922415.5
+current loss:  725237.848760098
+Epoch:  211
+Loss Value:  5759554.0
+current loss:  698276.6145232492
+Epoch:  211
+Loss Value:  5759554.0
+current loss:  698276.6145232492
+Epoch:  212
+Loss Value:  6387893.0
+current loss:  766749.1995469348
+Epoch:  212
+Loss Value:  6387893.0
+current loss:  766749.1995469348
+Epoch:  213
+Loss Value:  6514829.5
+current loss:  774204.7076898471
+Epoch:  213
+Loss Value:  6514829.5
+current loss:  774204.7076898471
+Epoch:  214
+Loss Value:  6505413.0
+current loss:  765393.3453068415
+Epoch:  214
+Loss Value:  6505413.0
+current loss:  765393.3453068415
+Epoch:  215
+Loss Value:  5792118.5
+current loss:  674690.0451967906
+Epoch:  215
+Loss Value:  5792118.5
+current loss:  674690.0451967906
+Epoch:  216
+Loss Value:  6118142.0
+current loss:  705575.4666780538
+Epoch:  216
+Loss Value:  6118142.0
+current loss:  705575.4666780538
+Epoch:  217
+Loss Value:  6305008.5
+current loss:  719890.8451325679
+Epoch:  217
+Loss Value:  6305008.5
+current loss:  719890.8451325679
+Epoch:  218
+Loss Value:  6410794.5
+current loss:  724686.0229013774
+Epoch:  218
+Loss Value:  6410794.5
+current loss:  724686.0229013774
+Epoch:  219
+Loss Value:  5930773.5
+current loss:  663752.8869058158
+Epoch:  219
+Loss Value:  5930773.5
+current loss:  663752.8869058158
+Epoch:  220
+Loss Value:  5789517.0
+current loss:  641496.7689924241
+Epoch:  220
+Loss Value:  5789517.0
+current loss:  641496.7689924241
+Epoch:  221
+Loss Value:  5621771.0
+current loss:  616711.9245056951
+Epoch:  221
+Loss Value:  5621771.0
+current loss:  616711.9245056951
+Epoch:  222
+Loss Value:  5524795.5
+current loss:  600043.115695138
+Epoch:  222
+Loss Value:  5524795.5
+current loss:  600043.115695138
+Epoch:  223
+Loss Value:  5131254.0
+current loss:  551755.6872480183
+Epoch:  223
+Loss Value:  5131254.0
+current loss:  551755.6872480183
+Epoch:  224
+Loss Value:  4812415.0
+current loss:  512322.50335228187
+Epoch:  224
+Loss Value:  4812415.0
+current loss:  512322.50335228187
+Epoch:  225
+Loss Value:  4906816.5
+current loss:  517174.65416736115
+Epoch:  225
+Loss Value:  4906816.5
+current loss:  517174.65416736115
+Epoch:  226
+Loss Value:  4798206.5
+current loss:  500695.1742284643
+Epoch:  226
+Loss Value:  4798206.5
+current loss:  500695.1742284643
+Epoch:  227
+Loss Value:  4566377.5
+current loss:  471762.4146074169
+Epoch:  227
+Loss Value:  4566377.5
+current loss:  471762.4146074169
+Epoch:  228
+Loss Value:  4478280.0
+current loss:  458057.317250057
+Epoch:  228
+Loss Value:  4478280.0
+current loss:  458057.317250057
+Epoch:  229
+Loss Value:  4372712.5
+current loss:  442809.1235792491
+Epoch:  229
+Loss Value:  4372712.5
+current loss:  442809.1235792491
+Epoch:  230
+Loss Value:  4279086.0
+current loss:  429016.21455043723
+Epoch:  230
+Loss Value:  4279086.0
+current loss:  429016.21455043723
+Epoch:  231
+Loss Value:  3671445.25
+current loss:  364432.25054771616
+Epoch:  231
+Loss Value:  3671445.25
+current loss:  364432.25054771616
+Epoch:  232
+Loss Value:  3760731.5
+current loss:  369580.569000269
+Epoch:  232
+Loss Value:  3760731.5
+current loss:  369580.569000269
+Epoch:  233
+Loss Value:  3917015.0
+current loss:  381108.9007859062
+Epoch:  233
+Loss Value:  3917015.0
+current loss:  381108.9007859062
+Epoch:  234
+Loss Value:  3829286.0
+current loss:  368866.07648909173
+Epoch:  234
+Loss Value:  3829286.0
+current loss:  368866.07648909173
+Epoch:  235
+Loss Value:  3758205.25
+current loss:  358416.8861265802
+Epoch:  235
+Loss Value:  3758205.25
+current loss:  358416.8861265802
+Epoch:  236
+Loss Value:  3855172.5
+current loss:  364006.2479102469
+Epoch:  236
+Loss Value:  3855172.5
+current loss:  364006.2479102469
+Epoch:  237
+Loss Value:  3621269.0
+current loss:  338518.8561682185
+Epoch:  237
+Loss Value:  3621269.0
+current loss:  338518.8561682185
+Epoch:  238
+Loss Value:  3569674.0
+current loss:  330375.3902236572
+Epoch:  238
+Loss Value:  3569674.0
+current loss:  330375.3902236572
+Epoch:  239
+Loss Value:  3593387.0
+current loss:  329260.91485953546
+Epoch:  239
+Loss Value:  3593387.0
+current loss:  329260.91485953546
+Epoch:  240
+Loss Value:  3371765.0
+current loss:  305879.619772876
+Epoch:  240
+Loss Value:  3371765.0
+current loss:  305879.619772876
+Epoch:  241
+Loss Value:  3467899.0
+current loss:  311470.370231803
+Epoch:  241
+Loss Value:  3467899.0
+current loss:  311470.370231803
+Epoch:  242
+Loss Value:  3388926.75
+current loss:  301348.84806138143
+Epoch:  242
+Loss Value:  3388926.75
+current loss:  301348.84806138143
+Epoch:  243
+Loss Value:  3239931.75
+current loss:  285233.3290530633
+Epoch:  243
+Loss Value:  3239931.75
+current loss:  285233.3290530633
+Epoch:  244
+Loss Value:  3229910.0
+current loss:  281521.70574556803
+Epoch:  244
+Loss Value:  3229910.0
+current loss:  281521.70574556803
+Epoch:  245
+Loss Value:  3253068.75
+current loss:  280718.969566524
+Epoch:  245
+Loss Value:  3253068.75
+current loss:  280718.969566524
+Epoch:  246
+Loss Value:  3224789.25
+current loss:  275509.7114536946
+Epoch:  246
+Loss Value:  3224789.25
+current loss:  275509.7114536946
+Epoch:  247
+Loss Value:  3266198.75
+current loss:  276270.96073983685
+Epoch:  247
+Loss Value:  3266198.75
+current loss:  276270.96073983685
+Epoch:  248
+Loss Value:  3301697.25
+current loss:  276494.777643883
+Epoch:  248
+Loss Value:  3301697.25
+current loss:  276494.777643883
+Epoch:  249
+Loss Value:  3279575.75
+current loss:  271909.51581324684
+Epoch:  249
+Loss Value:  3279575.75
+current loss:  271909.51581324684
+Epoch:  250
+Loss Value:  3387316.25
+current loss:  278047.84971996007
+Epoch:  250
+Loss Value:  3387316.25
+current loss:  278047.84971996007
+Epoch:  251
+Loss Value:  3450161.75
+current loss:  280388.5705187735
+Epoch:  251
+Loss Value:  3450161.75
+current loss:  280388.5705187735
+Epoch:  252
+Loss Value:  3593211.5
+current loss:  289108.38425789756
+Epoch:  252
+Loss Value:  3593211.5
+current loss:  289108.38425789756
+Epoch:  253
+Loss Value:  3665689.5
+current loss:  292005.23424230336
+Epoch:  253
+Loss Value:  3665689.5
+current loss:  292005.23424230336
+Epoch:  254
+Loss Value:  3694292.25
+current loss:  291355.5295320921
+Epoch:  254
+Loss Value:  3694292.25
+current loss:  291355.5295320921
+Epoch:  255
+Loss Value:  3519398.5
+current loss:  274800.4982019593
+Epoch:  255
+Loss Value:  3519398.5
+current loss:  274800.4982019593
+Epoch:  256
+Loss Value:  3661939.25
+current loss:  283085.2632403817
+Epoch:  256
+Loss Value:  3661939.25
+current loss:  283085.2632403817
+Epoch:  257
+Loss Value:  3656582.25
+current loss:  279858.5168911436
+Epoch:  257
+Loss Value:  3656582.25
+current loss:  279858.5168911436
+Epoch:  258
+Loss Value:  3683523.75
+current loss:  279115.34345074685
+Epoch:  258
+Loss Value:  3683523.75
+current loss:  279115.34345074685
+Epoch:  259
+Loss Value:  3548879.75
+current loss:  266237.1011030052
+Epoch:  259
+Loss Value:  3548879.75
+current loss:  266237.1011030052
+Epoch:  260
+Loss Value:  3596619.5
+current loss:  267133.7997404484
+Epoch:  260
+Loss Value:  3596619.5
+current loss:  267133.7997404484
+Epoch:  261
+Loss Value:  3773787.75
+current loss:  277503.7604548638
+Epoch:  261
+Loss Value:  3773787.75
+current loss:  277503.7604548638
+Epoch:  262
+Loss Value:  3830754.5
+current loss:  278889.89438908163
+Epoch:  262
+Loss Value:  3830754.5
+current loss:  278889.89438908163
+Epoch:  263
+Loss Value:  4039549.5
+current loss:  291164.5160973765
+Epoch:  263
+Loss Value:  4039549.5
+current loss:  291164.5160973765
+Epoch:  264
+Loss Value:  3989277.75
+current loss:  284679.9248530433
+Epoch:  264
+Loss Value:  3989277.75
+current loss:  284679.9248530433
+Epoch:  265
+Loss Value:  3790087.75
+current loss:  267774.2971429742
+Epoch:  265
+Loss Value:  3790087.75
+current loss:  267774.2971429742
+Epoch:  266
+Loss Value:  3620686.25
+current loss:  253260.56468282465
+Epoch:  266
+Loss Value:  3620686.25
+current loss:  253260.56468282465
+Epoch:  267
+Loss Value:  3554512.5
+current loss:  246157.9005148867
+Epoch:  267
+Loss Value:  3554512.5
+current loss:  246157.9005148867
+Epoch:  268
+Loss Value:  3452878.0
+current loss:  236740.2065899148
+Epoch:  268
+Loss Value:  3452878.0
+current loss:  236740.2065899148
+Epoch:  269
+Loss Value:  3449153.25
+current loss:  234131.76264716394
+Epoch:  269
+Loss Value:  3449153.25
+current loss:  234131.76264716394
+Epoch:  270
+Loss Value:  3411235.75
+current loss:  229253.8476549148
+Epoch:  270
+Loss Value:  3411235.75
+current loss:  229253.8476549148
+Epoch:  271
+Loss Value:  3369925.25
+current loss:  224224.06500330486
+Epoch:  271
+Loss Value:  3369925.25
+current loss:  224224.06500330486
+Epoch:  272
+Loss Value:  3437826.5
+current loss:  226465.97644808036
+Epoch:  272
+Loss Value:  3437826.5
+current loss:  226465.97644808036
+Epoch:  273
+Loss Value:  3266401.5
+current loss:  213032.38560090624
+Epoch:  273
+Loss Value:  3266401.5
+current loss:  213032.38560090624
+Epoch:  274
+Loss Value:  3378096.0
+current loss:  218124.83055842484
+Epoch:  274
+Loss Value:  3378096.0
+current loss:  218124.83055842484
+Epoch:  275
+Loss Value:  3379035.75
+current loss:  216014.528438503
+Epoch:  275
+Loss Value:  3379035.75
+current loss:  216014.528438503
+Epoch:  276
+Loss Value:  3521414.5
+current loss:  222876.55083228
+Epoch:  276
+Loss Value:  3521414.5
+current loss:  222876.55083228
+Epoch:  277
+Loss Value:  3613759.5
+current loss:  226445.41492600102
+Epoch:  277
+Loss Value:  3613759.5
+current loss:  226445.41492600102
+Epoch:  278
+Loss Value:  3729919.5
+current loss:  231398.63841770255
+Epoch:  278
+Loss Value:  3729919.5
+current loss:  231398.63841770255
+Epoch:  279
+Loss Value:  3971064.75
+current loss:  243907.6174800665
+Epoch:  279
+Loss Value:  3971064.75
+current loss:  243907.6174800665
+Epoch:  280
+Loss Value:  3933451.0
+current loss:  239193.40164322619
+Epoch:  280
+Loss Value:  3933451.0
+current loss:  239193.40164322619
+Epoch:  281
+Loss Value:  4090090.75
+current loss:  246243.8824878674
+Epoch:  281
+Loss Value:  4090090.75
+current loss:  246243.8824878674
+Epoch:  282
+Loss Value:  4165700.5
+current loss:  248300.50534560008
+Epoch:  282
+Loss Value:  4165700.5
+current loss:  248300.50534560008
+Epoch:  283
+Loss Value:  4179789.75
+current loss:  246661.32088580797
+Epoch:  283
+Loss Value:  4179789.75
+current loss:  246661.32088580797
+Epoch:  284
+Loss Value:  4081880.0
+current loss:  238486.55738717664
+Epoch:  284
+Loss Value:  4081880.0
+current loss:  238486.55738717664
+Epoch:  285
+Loss Value:  4189079.25
+current loss:  242314.44430712762
+Epoch:  285
+Loss Value:  4189079.25
+current loss:  242314.44430712762
+Epoch:  286
+Loss Value:  4175109.5
+current loss:  239103.3450375753
+Epoch:  286
+Loss Value:  4175109.5
+current loss:  239103.3450375753
+Epoch:  287
+Loss Value:  4086020.25
+current loss:  231672.96215851768
+Epoch:  287
+Loss Value:  4086020.25
+current loss:  231672.96215851768
+Epoch:  288
+Loss Value:  4025830.25
+current loss:  225989.02629423127
+Epoch:  288
+Loss Value:  4025830.25
+current loss:  225989.02629423127
+Epoch:  289
+Loss Value:  3469359.25
+current loss:  192813.84730361542
+Epoch:  289
+Loss Value:  3469359.25
+current loss:  192813.84730361542
+Epoch:  290
+Loss Value:  3558808.0
+current loss:  195817.07572250252
+Epoch:  290
+Loss Value:  3558808.0
+current loss:  195817.07572250252
+Epoch:  291
+Loss Value:  3571469.5
+current loss:  194558.40771805058
+Epoch:  291
+Loss Value:  3571469.5
+current loss:  194558.40771805058
+Epoch:  292
+Loss Value:  3228514.0
+current loss:  174125.66452082162
+Epoch:  292
+Loss Value:  3228514.0
+current loss:  174125.66452082162
+Epoch:  293
+Loss Value:  3197242.25
+current loss:  170723.26638268575
+Epoch:  293
+Loss Value:  3197242.25
+current loss:  170723.26638268575
+Epoch:  294
+Loss Value:  3120698.25
+current loss:  164977.9871587447
+Epoch:  294
+Loss Value:  3120698.25
+current loss:  164977.9871587447
+Epoch:  295
+Loss Value:  3090222.5
+current loss:  161741.3369652296
+Epoch:  295
+Loss Value:  3090222.5
+current loss:  161741.3369652296
+Epoch:  296
+Loss Value:  3063101.5
+current loss:  158726.60292015225
+Epoch:  296
+Loss Value:  3063101.5
+current loss:  158726.60292015225
+Epoch:  297
+Loss Value:  3106010.25
+current loss:  159348.60774987165
+Epoch:  297
+Loss Value:  3106010.25
+current loss:  159348.60774987165
+Epoch:  298
+Loss Value:  3203935.75
+current loss:  162736.976263559
+Epoch:  298
+Loss Value:  3203935.75
+current loss:  162736.976263559
+Epoch:  299
+Loss Value:  3130825.75
+current loss:  157441.20179571703
+Epoch:  299
+Loss Value:  3130825.75
+current loss:  157441.20179571703
+Epoch:  300
+Loss Value:  3030293.5
+current loss:  150869.42965919373
+Epoch:  300
+Loss Value:  3030293.5
+current loss:  150869.42965919373
+Epoch:  301
+Loss Value:  3066870.5
+current loss:  151171.19548593793
+Epoch:  301
+Loss Value:  3066870.5
+current loss:  151171.19548593793
+Epoch:  302
+Loss Value:  2924901.5
+current loss:  142738.75678887925
+Epoch:  302
+Loss Value:  2924901.5
+current loss:  142738.75678887925
+Epoch:  303
+Loss Value:  2663534.75
+current loss:  128690.38111720639
+Epoch:  303
+Loss Value:  2663534.75
+current loss:  128690.38111720639
+Epoch:  304
+Loss Value:  2797110.25
+current loss:  133799.45971183956
+Epoch:  304
+Loss Value:  2797110.25
+current loss:  133799.45971183956
+Epoch:  305
+Loss Value:  2884134.0
+current loss:  136589.48403991878
+Epoch:  305
+Loss Value:  2884134.0
+current loss:  136589.48403991878
+Epoch:  306
+Loss Value:  2875370.75
+current loss:  134819.5073704697
+Epoch:  306
+Loss Value:  2875370.75
+current loss:  134819.5073704697
+Epoch:  307
+Loss Value:  2911551.25
+current loss:  135157.57145159753
+Epoch:  307
+Loss Value:  2911551.25
+current loss:  135157.57145159753
+Epoch:  308
+Loss Value:  2804575.5
+current loss:  128896.20519612147
+Epoch:  308
+Loss Value:  2804575.5
+current loss:  128896.20519612147
+Epoch:  309
+Loss Value:  2971891.5
+current loss:  135226.8715284824
+Epoch:  309
+Loss Value:  2971891.5
+current loss:  135226.8715284824
+Epoch:  310
+Loss Value:  2957288.25
+current loss:  133223.47691034037
+Epoch:  310
+Loss Value:  2957288.25
+current loss:  133223.47691034037
+Epoch:  311
+Loss Value:  2645446.5
+current loss:  117989.44120158558
+Epoch:  311
+Loss Value:  2645446.5
+current loss:  117989.44120158558
+Epoch:  312
+Loss Value:  2709960.0
+current loss:  119664.16013063086
+Epoch:  312
+Loss Value:  2709960.0
+current loss:  119664.16013063086
+Epoch:  313
+Loss Value:  2733424.5
+current loss:  119499.29809670211
+Epoch:  313
+Loss Value:  2733424.5
+current loss:  119499.29809670211
+Epoch:  314
+Loss Value:  2836410.25
+current loss:  122767.77161781456
+Epoch:  314
+Loss Value:  2836410.25
+current loss:  122767.77161781456
+Epoch:  315
+Loss Value:  2867222.75
+current loss:  122866.59303906385
+Epoch:  315
+Loss Value:  2867222.75
+current loss:  122866.59303906385
+Epoch:  316
+Loss Value:  3064373.0
+current loss:  130008.29547210991
+Epoch:  316
+Loss Value:  3064373.0
+current loss:  130008.29547210991
+Epoch:  317
+Loss Value:  3132629.5
+current loss:  131581.7098984717
+Epoch:  317
+Loss Value:  3132629.5
+current loss:  131581.7098984717
+Epoch:  318
+Loss Value:  3069660.0
+current loss:  127653.8220992604
+Epoch:  318
+Loss Value:  3069660.0
+current loss:  127653.8220992604
+Epoch:  319
+Loss Value:  3098036.25
+current loss:  127551.9486495534
+Epoch:  319
+Loss Value:  3098036.25
+current loss:  127551.9486495534
+Epoch:  320
+Loss Value:  3131102.5
+current loss:  127630.63878217239
+Epoch:  320
+Loss Value:  3131102.5
+current loss:  127630.63878217239
+Epoch:  321
+Loss Value:  2783125.5
+current loss:  112317.51949102832
+Epoch:  321
+Loss Value:  2783125.5
+current loss:  112317.51949102832
+Epoch:  322
+Loss Value:  2833730.5
+current loss:  113221.8672224919
+Epoch:  322
+Loss Value:  2833730.5
+current loss:  113221.8672224919
+Epoch:  323
+Loss Value:  2717772.75
+current loss:  107508.29226526807
+Epoch:  323
+Loss Value:  2717772.75
+current loss:  107508.29226526807
+Epoch:  324
+Loss Value:  2709979.75
+current loss:  106133.3626493792
+Epoch:  324
+Loss Value:  2709979.75
+current loss:  106133.3626493792
+Epoch:  325
+Loss Value:  2683949.5
+current loss:  104068.01572284636
+Epoch:  325
+Loss Value:  2683949.5
+current loss:  104068.01572284636
+Epoch:  326
+Loss Value:  2566549.5
+current loss:  98525.72373774921
+Epoch:  326
+Loss Value:  2566549.5
+current loss:  98525.72373774921
+Epoch:  327
+Loss Value:  2582100.0
+current loss:  98136.3953508076
+Epoch:  327
+Loss Value:  2582100.0
+current loss:  98136.3953508076
+Epoch:  328
+Loss Value:  2478768.0
+current loss:  93271.71886941053
+Epoch:  328
+Loss Value:  2478768.0
+current loss:  93271.71886941053
+Epoch:  329
+Loss Value:  2518247.25
+current loss:  93814.40379393462
+Epoch:  329
+Loss Value:  2518247.25
+current loss:  93814.40379393462
+Epoch:  330
+Loss Value:  2435069.5
+current loss:  89813.07600215377
+Epoch:  330
+Loss Value:  2435069.5
+current loss:  89813.07600215377
+Epoch:  331
+Loss Value:  2458689.75
+current loss:  89781.94211754056
+Epoch:  331
+Loss Value:  2458689.75
+current loss:  89781.94211754056
+Epoch:  332
+Loss Value:  2440758.25
+current loss:  88240.32236455075
+Epoch:  332
+Loss Value:  2440758.25
+current loss:  88240.32236455075
+Epoch:  333
+Loss Value:  2361995.0
+current loss:  84543.13520427648
+Epoch:  333
+Loss Value:  2361995.0
+current loss:  84543.13520427648
+Epoch:  334
+Loss Value:  2402358.25
+current loss:  85132.26773738369
+Epoch:  334
+Loss Value:  2402358.25
+current loss:  85132.26773738369
+Epoch:  335
+Loss Value:  2354894.0
+current loss:  82619.93496595534
+Epoch:  335
+Loss Value:  2354894.0
+current loss:  82619.93496595534
+Epoch:  336
+Loss Value:  2311114.75
+current loss:  80277.16929225472
+Epoch:  336
+Loss Value:  2311114.75
+current loss:  80277.16929225472
+Epoch:  337
+Loss Value:  2285688.0
+current loss:  78603.98140032745
+Epoch:  337
+Loss Value:  2285688.0
+current loss:  78603.98140032745
+Epoch:  338
+Loss Value:  2338578.5
+current loss:  79622.64562205723
+Epoch:  338
+Loss Value:  2338578.5
+current loss:  79622.64562205723
+Epoch:  339
+Loss Value:  2407207.0
+current loss:  81143.76299338897
+Epoch:  339
+Loss Value:  2407207.0
+current loss:  81143.76299338897
+Epoch:  340
+Loss Value:  2404649.25
+current loss:  80251.00858014564
+Epoch:  340
+Loss Value:  2404649.25
+current loss:  80251.00858014564
+Epoch:  341
+Loss Value:  2500712.75
+current loss:  82626.55105528525
+Epoch:  341
+Loss Value:  2500712.75
+current loss:  82626.55105528525
+Epoch:  342
+Loss Value:  2539239.5
+current loss:  83064.70693833921
+Epoch:  342
+Loss Value:  2539239.5
+current loss:  83064.70693833921
+Epoch:  343
+Loss Value:  2581971.25
+current loss:  83622.14995109876
+Epoch:  343
+Loss Value:  2581971.25
+current loss:  83622.14995109876
+Epoch:  344
+Loss Value:  2501359.25
+current loss:  80205.29724318381
+Epoch:  344
+Loss Value:  2501359.25
+current loss:  80205.29724318381
+Epoch:  345
+Loss Value:  2604409.75
+current loss:  82678.64490299483
+Epoch:  345
+Loss Value:  2604409.75
+current loss:  82678.64490299483
+Epoch:  346
+Loss Value:  2471029.5
+current loss:  77663.86912536615
+Epoch:  346
+Loss Value:  2471029.5
+current loss:  77663.86912536615
+Epoch:  347
+Loss Value:  2471189.25
+current loss:  76896.07166153399
+Epoch:  347
+Loss Value:  2471189.25
+current loss:  76896.07166153399
+Epoch:  348
+Loss Value:  2439094.5
+current loss:  75142.18680922248
+Epoch:  348
+Loss Value:  2439094.5
+current loss:  75142.18680922248
+Epoch:  349
+Loss Value:  2429737.25
+current loss:  74109.1052718955
+Epoch:  349
+Loss Value:  2429737.25
+current loss:  74109.1052718955
+Epoch:  350
+Loss Value:  2419665.75
+current loss:  73067.57440660187
+Epoch:  350
+Loss Value:  2419665.75
+current loss:  73067.57440660187
+Epoch:  351
+Loss Value:  2372293.25
+current loss:  70924.24831454783
+Epoch:  351
+Loss Value:  2372293.25
+current loss:  70924.24831454783
+Epoch:  352
+Loss Value:  2292517.25
+current loss:  67857.21571264905
+Epoch:  352
+Loss Value:  2292517.25
+current loss:  67857.21571264905
+Epoch:  353
+Loss Value:  2324021.0
+current loss:  68105.2398782359
+Epoch:  353
+Loss Value:  2324021.0
+current loss:  68105.2398782359
+Epoch:  354
+Loss Value:  2353379.25
+current loss:  68279.36192870559
+Epoch:  354
+Loss Value:  2353379.25
+current loss:  68279.36192870559
+Epoch:  355
+Loss Value:  2359948.0
+current loss:  67788.65590274302
+Epoch:  355
+Loss Value:  2359948.0
+current loss:  67788.65590274302
+Epoch:  356
+Loss Value:  2397480.5
+current loss:  68181.52769517542
+Epoch:  356
+Loss Value:  2397480.5
+current loss:  68181.52769517542
+Epoch:  357
+Loss Value:  2461432.0
+current loss:  69303.71923600843
+Epoch:  357
+Loss Value:  2461432.0
+current loss:  69303.71923600843
+Epoch:  358
+Loss Value:  2484527.75
+current loss:  69257.9458657878
+Epoch:  358
+Loss Value:  2484527.75
+current loss:  69257.9458657878
+Epoch:  359
+Loss Value:  2451121.5
+current loss:  67646.86106453043
+Epoch:  359
+Loss Value:  2451121.5
+current loss:  67646.86106453043
+Epoch:  360
+Loss Value:  2434949.0
+current loss:  66531.87064931256
+Epoch:  360
+Loss Value:  2434949.0
+current loss:  66531.87064931256
+Epoch:  361
+Loss Value:  2396821.0
+current loss:  64838.43465805287
+Epoch:  361
+Loss Value:  2396821.0
+current loss:  64838.43465805287
+Epoch:  362
+Loss Value:  2291961.75
+current loss:  61384.87008375085
+Epoch:  362
+Loss Value:  2291961.75
+current loss:  61384.87008375085
+Epoch:  363
+Loss Value:  2265597.75
+current loss:  60075.00773537574
+Epoch:  363
+Loss Value:  2265597.75
+current loss:  60075.00773537574
+Epoch:  364
+Loss Value:  2219163.0
+current loss:  58258.230391927995
+Epoch:  364
+Loss Value:  2219163.0
+current loss:  58258.230391927995
+Epoch:  365
+Loss Value:  2185221.0
+current loss:  56796.36042104054
+Epoch:  365
+Loss Value:  2185221.0
+current loss:  56796.36042104054
+Epoch:  366
+Loss Value:  2180223.5
+current loss:  56102.62896005901
+Epoch:  366
+Loss Value:  2180223.5
+current loss:  56102.62896005901
+Epoch:  367
+Loss Value:  2195074.25
+current loss:  55922.74316085837
+Epoch:  367
+Loss Value:  2195074.25
+current loss:  55922.74316085837
+Epoch:  368
+Loss Value:  2242352.25
+current loss:  56558.79437346512
+Epoch:  368
+Loss Value:  2242352.25
+current loss:  56558.79437346512
+Epoch:  369
+Loss Value:  2276243.5
+current loss:  56842.35733071782
+Epoch:  369
+Loss Value:  2276243.5
+current loss:  56842.35733071782
+Epoch:  370
+Loss Value:  2316752.0
+current loss:  57278.27939721172
+Epoch:  370
+Loss Value:  2316752.0
+current loss:  57278.27939721172
+Epoch:  371
+Loss Value:  2432502.25
+current loss:  59541.63043272248
+Epoch:  371
+Loss Value:  2432502.25
+current loss:  59541.63043272248
+Epoch:  372
+Loss Value:  2423776.25
+current loss:  58737.71570764978
+Epoch:  372
+Loss Value:  2423776.25
+current loss:  58737.71570764978
+Epoch:  373
+Loss Value:  2477506.0
+current loss:  59442.394742462
+Epoch:  373
+Loss Value:  2477506.0
+current loss:  59442.394742462
+Epoch:  374
+Loss Value:  2542798.25
+current loss:  60401.89187260187
+Epoch:  374
+Loss Value:  2542798.25
+current loss:  60401.89187260187
+Epoch:  375
+Loss Value:  2536297.0
+current loss:  59647.98826135833
+Epoch:  375
+Loss Value:  2536297.0
+current loss:  59647.98826135833
+Epoch:  376
+Loss Value:  2503379.5
+current loss:  58288.03833783946
+Epoch:  376
+Loss Value:  2503379.5
+current loss:  58288.03833783946
+Epoch:  377
+Loss Value:  2561437.75
+current loss:  59046.42511928867
+Epoch:  377
+Loss Value:  2561437.75
+current loss:  59046.42511928867
+Epoch:  378
+Loss Value:  2608279.25
+current loss:  59527.952473222926
+Epoch:  378
+Loss Value:  2608279.25
+current loss:  59527.952473222926
+Epoch:  379
+Loss Value:  2691608.0
+current loss:  60818.50270729442
+Epoch:  379
+Loss Value:  2691608.0
+current loss:  60818.50270729442
+Epoch:  380
+Loss Value:  2954095.25
+current loss:  66085.39087913245
+Epoch:  380
+Loss Value:  2954095.25
+current loss:  66085.39087913245
+Epoch:  381
+Loss Value:  3132973.0
+current loss:  69389.64667156606
+Epoch:  381
+Loss Value:  3132973.0
+current loss:  69389.64667156606
+Epoch:  382
+Loss Value:  3134076.25
+current loss:  68723.39999743407
+Epoch:  382
+Loss Value:  3134076.25
+current loss:  68723.39999743407
+Epoch:  383
+Loss Value:  3158323.0
+current loss:  68565.97836491023
+Epoch:  383
+Loss Value:  3158323.0
+current loss:  68565.97836491023
+Epoch:  384
+Loss Value:  3182358.75
+current loss:  68400.3503095587
+Epoch:  384
+Loss Value:  3182358.75
+current loss:  68400.3503095587
+Epoch:  385
+Loss Value:  3226089.75
+current loss:  68650.33960655009
+Epoch:  385
+Loss Value:  3226089.75
+current loss:  68650.33960655009
+Epoch:  386
+Loss Value:  3250311.0
+current loss:  68477.55059773632
+Epoch:  386
+Loss Value:  3250311.0
+current loss:  68477.55059773632
+Epoch:  387
+Loss Value:  3276484.75
+current loss:  68342.12933158228
+Epoch:  387
+Loss Value:  3276484.75
+current loss:  68342.12933158228
+Epoch:  388
+Loss Value:  3371771.75
+current loss:  69629.86896188704
+Epoch:  388
+Loss Value:  3371771.75
+current loss:  69629.86896188704
+Epoch:  389
+Loss Value:  3692201.25
+current loss:  75488.33219795596
+Epoch:  389
+Loss Value:  3692201.25
+current loss:  75488.33219795596
+Epoch:  390
+Loss Value:  3831892.0
+current loss:  77564.81853388628
+Epoch:  390
+Loss Value:  3831892.0
+current loss:  77564.81853388628
+Epoch:  391
+Loss Value:  4018826.0
+current loss:  80539.28671972331
+Epoch:  391
+Loss Value:  4018826.0
+current loss:  80539.28671972331
+Epoch:  392
+Loss Value:  4087524.5
+current loss:  81100.9608744348
+Epoch:  392
+Loss Value:  4087524.5
+current loss:  81100.9608744348
+Epoch:  393
+Loss Value:  4129269.0
+current loss:  81114.00811952337
+Epoch:  393
+Loss Value:  4129269.0
+current loss:  81114.00811952337
+Epoch:  394
+Loss Value:  4189049.25
+current loss:  81469.52939299561
+Epoch:  394
+Loss Value:  4189049.25
+current loss:  81469.52939299561
+Epoch:  395
+Loss Value:  4158858.75
+current loss:  80077.58495720843
+Epoch:  395
+Loss Value:  4158858.75
+current loss:  80077.58495720843
+Epoch:  396
+Loss Value:  3972462.25
+current loss:  75727.50189086272
+Epoch:  396
+Loss Value:  3972462.25
+current loss:  75727.50189086272
+Epoch:  397
+Loss Value:  3817887.25
+current loss:  72056.63973042238
+Epoch:  397
+Loss Value:  3817887.25
+current loss:  72056.63973042238
+Epoch:  398
+Loss Value:  3673979.75
+current loss:  68650.66054263362
+Epoch:  398
+Loss Value:  3673979.75
+current loss:  68650.66054263362
+Epoch:  399
+Loss Value:  3502780.5
+current loss:  64800.4378744775
+Epoch:  399
+Loss Value:  3502780.5
+current loss:  64800.4378744775
+Epoch:  400
+Loss Value:  3445090.25
+current loss:  63099.028958098956
+Epoch:  400
+Loss Value:  3445090.25
+current loss:  63099.028958098956
+Epoch:  401
+Loss Value:  3379910.5
+current loss:  61289.25296151394
+Epoch:  401
+Loss Value:  3379910.5
+current loss:  61289.25296151394
+Epoch:  402
+Loss Value:  3396602.0
+current loss:  60979.07661944526
+Epoch:  402
+Loss Value:  3396602.0
+current loss:  60979.07661944526
+Epoch:  403
+Loss Value:  3492621.5
+current loss:  62079.00694424497
+Epoch:  403
+Loss Value:  3492621.5
+current loss:  62079.00694424497
+Epoch:  404
+Loss Value:  3558905.75
+current loss:  62627.74576542848
+Epoch:  404
+Loss Value:  3558905.75
+current loss:  62627.74576542848
+Epoch:  405
+Loss Value:  3716349.25
+current loss:  64747.628924700744
+Epoch:  405
+Loss Value:  3716349.25
+current loss:  64747.628924700744
+Epoch:  406
+Loss Value:  3844937.0
+current loss:  66321.39181030213
+Epoch:  406
+Loss Value:  3844937.0
+current loss:  66321.39181030213
+Epoch:  407
+Loss Value:  3890951.25
+current loss:  66447.28615993359
+Epoch:  407
+Loss Value:  3890951.25
+current loss:  66447.28615993359
+Epoch:  408
+Loss Value:  3813108.5
+current loss:  64470.00099378855
+Epoch:  408
+Loss Value:  3813108.5
+current loss:  64470.00099378855
+Epoch:  409
+Loss Value:  3695513.0
+current loss:  61860.055225770986
+Epoch:  409
+Loss Value:  3695513.0
+current loss:  61860.055225770986
+Epoch:  410
+Loss Value:  3609177.75
+current loss:  59813.73131800903
+Epoch:  410
+Loss Value:  3609177.75
+current loss:  59813.73131800903
+Epoch:  411
+Loss Value:  3507996.5
+current loss:  57558.41561102375
+Epoch:  411
+Loss Value:  3507996.5
+current loss:  57558.41561102375
+Epoch:  412
+Loss Value:  3473302.0
+current loss:  56422.10450025337
+Epoch:  412
+Loss Value:  3473302.0
+current loss:  56422.10450025337
+Epoch:  413
+Loss Value:  3430745.75
+current loss:  55176.26816836027
+Epoch:  413
+Loss Value:  3430745.75
+current loss:  55176.26816836027
+Epoch:  414
+Loss Value:  3422164.75
+current loss:  54490.6211382244
+Epoch:  414
+Loss Value:  3422164.75
+current loss:  54490.6211382244
+Epoch:  415
+Loss Value:  3481312.25
+current loss:  54880.85622282586
+Epoch:  415
+Loss Value:  3481312.25
+current loss:  54880.85622282586
+Epoch:  416
+Loss Value:  3546142.0
+current loss:  55346.616657483755
+Epoch:  416
+Loss Value:  3546142.0
+current loss:  55346.616657483755
+Epoch:  417
+Loss Value:  3506909.0
+current loss:  54189.6700988794
+Epoch:  417
+Loss Value:  3506909.0
+current loss:  54189.6700988794
+Epoch:  418
+Loss Value:  3492408.75
+current loss:  53428.64168797341
+Epoch:  418
+Loss Value:  3492408.75
+current loss:  53428.64168797341
+Epoch:  419
+Loss Value:  3398966.0
+current loss:  51481.707309801
+Epoch:  419
+Loss Value:  3398966.0
+current loss:  51481.707309801
+Epoch:  420
+Loss Value:  3377716.25
+current loss:  50650.803504650874
+Epoch:  420
+Loss Value:  3377716.25
+current loss:  50650.803504650874
+Epoch:  421
+Loss Value:  3413369.25
+current loss:  50676.13715939919
+Epoch:  421
+Loss Value:  3413369.25
+current loss:  50676.13715939919
+Epoch:  422
+Loss Value:  3449791.75
+current loss:  50707.26254919301
+Epoch:  422
+Loss Value:  3449791.75
+current loss:  50707.26254919301
+Epoch:  423
+Loss Value:  3483288.25
+current loss:  50690.17100670894
+Epoch:  423
+Loss Value:  3483288.25
+current loss:  50690.17100670894
+Epoch:  424
+Loss Value:  3528479.0
+current loss:  50836.88525899322
+Epoch:  424
+Loss Value:  3528479.0
+current loss:  50836.88525899322
+Epoch:  425
+Loss Value:  3619161.5
+current loss:  51624.56619044461
+Epoch:  425
+Loss Value:  3619161.5
+current loss:  51624.56619044461
+Epoch:  426
+Loss Value:  3557077.25
+current loss:  50234.1206208144
+Epoch:  426
+Loss Value:  3557077.25
+current loss:  50234.1206208144
+Epoch:  427
+Loss Value:  3536507.5
+current loss:  49446.68098515453
+Epoch:  427
+Loss Value:  3536507.5
+current loss:  49446.68098515453
+Epoch:  428
+Loss Value:  3505540.0
+current loss:  48526.00565063735
+Epoch:  428
+Loss Value:  3505540.0
+current loss:  48526.00565063735
+Epoch:  429
+Loss Value:  3500387.75
+current loss:  47972.55262556136
+Epoch:  429
+Loss Value:  3500387.75
+current loss:  47972.55262556136
+Epoch:  430
+Loss Value:  3559372.5
+current loss:  48295.55581265517
+Epoch:  430
+Loss Value:  3559372.5
+current loss:  48295.55581265517
+Epoch:  431
+Loss Value:  3780880.0
+current loss:  50790.638989890176
+Epoch:  431
+Loss Value:  3780880.0
+current loss:  50790.638989890176
+Epoch:  432
+Loss Value:  3898291.75
+current loss:  51846.82628946931
+Epoch:  432
+Loss Value:  3898291.75
+current loss:  51846.82628946931
+Epoch:  433
+Loss Value:  4044049.5
+current loss:  53250.213843483274
+Epoch:  433
+Loss Value:  4044049.5
+current loss:  53250.213843483274
+Epoch:  434
+Loss Value:  4078536.75
+current loss:  53169.95937013228
+Epoch:  434
+Loss Value:  4078536.75
+current loss:  53169.95937013228
+Epoch:  435
+Loss Value:  4028629.25
+current loss:  51996.76268598915
+Epoch:  435
+Loss Value:  4028629.25
+current loss:  51996.76268598915
+Epoch:  436
+Loss Value:  3966926.25
+current loss:  50690.92139961921
+Epoch:  436
+Loss Value:  3966926.25
+current loss:  50690.92139961921
+Epoch:  437
+Loss Value:  3886314.0
+current loss:  49166.69333680697
+Epoch:  437
+Loss Value:  3886314.0
+current loss:  49166.69333680697
+Epoch:  438
+Loss Value:  3943242.0
+current loss:  49390.5201796826
+Epoch:  438
+Loss Value:  3943242.0
+current loss:  49390.5201796826
+Epoch:  439
+Loss Value:  3978946.0
+current loss:  49341.831928766405
+Epoch:  439
+Loss Value:  3978946.0
+current loss:  49341.831928766405
+Epoch:  440
+Loss Value:  3949489.5
+current loss:  48489.22503509981
+Epoch:  440
+Loss Value:  3949489.5
+current loss:  48489.22503509981
+Epoch:  441
+Loss Value:  3882388.0
+current loss:  47191.11848592178
+Epoch:  441
+Loss Value:  3882388.0
+current loss:  47191.11848592178
+Epoch:  442
+Loss Value:  3890993.25
+current loss:  46825.11658879228
+Epoch:  442
+Loss Value:  3890993.25
+current loss:  46825.11658879228
+Epoch:  443
+Loss Value:  3994162.5
+current loss:  47588.40785769368
+Epoch:  443
+Loss Value:  3994162.5
+current loss:  47588.40785769368
+Epoch:  444
+Loss Value:  4081643.75
+current loss:  48146.81873452821
+Epoch:  444
+Loss Value:  4081643.75
+current loss:  48146.81873452821
+Epoch:  445
+Loss Value:  4229843.5
+current loss:  49398.510589041856
+Epoch:  445
+Loss Value:  4229843.5
+current loss:  49398.510589041856
+Epoch:  446
+Loss Value:  4239804.0
+current loss:  49022.15411566225
+Epoch:  446
+Loss Value:  4239804.0
+current loss:  49022.15411566225
+Epoch:  447
+Loss Value:  4224321.0
+current loss:  48357.136740924136
+Epoch:  447
+Loss Value:  4224321.0
+current loss:  48357.136740924136
+Epoch:  448
+Loss Value:  4327572.0
+current loss:  49046.161432570254
+Epoch:  448
+Loss Value:  4327572.0
+current loss:  49046.161432570254
+Epoch:  449
+Loss Value:  4591024.0
+current loss:  51514.24502527491
+Epoch:  449
+Loss Value:  4591024.0
+current loss:  51514.24502527491
+Epoch:  450
+Loss Value:  4630487.0
+current loss:  51440.064053376
+Epoch:  450
+Loss Value:  4630487.0
+current loss:  51440.064053376
+Epoch:  451
+Loss Value:  4859217.5
+current loss:  53443.91015933387
+Epoch:  451
+Loss Value:  4859217.5
+current loss:  53443.91015933387
+Epoch:  452
+Loss Value:  4902381.0
+current loss:  53382.142741271586
+Epoch:  452
+Loss Value:  4902381.0
+current loss:  53382.142741271586
+Epoch:  453
+Loss Value:  4980427.0
+current loss:  53692.37019094362
+Epoch:  453
+Loss Value:  4980427.0
+current loss:  53692.37019094362
+Epoch:  454
+Loss Value:  4975078.5
+current loss:  53101.035466191
+Epoch:  454
+Loss Value:  4975078.5
+current loss:  53101.035466191
+Epoch:  455
+Loss Value:  4969895.0
+current loss:  52517.89623128739
+Epoch:  455
+Loss Value:  4969895.0
+current loss:  52517.89623128739
+Epoch:  456
+Loss Value:  4896725.5
+current loss:  51229.830810781044
+Epoch:  456
+Loss Value:  4896725.5
+current loss:  51229.830810781044
+Epoch:  457
+Loss Value:  4871583.0
+current loss:  50459.66047501168
+Epoch:  457
+Loss Value:  4871583.0
+current loss:  50459.66047501168
+Epoch:  458
+Loss Value:  4725900.0
+current loss:  48463.614407175766
+Epoch:  458
+Loss Value:  4725900.0
+current loss:  48463.614407175766
+Epoch:  459
+Loss Value:  4597406.5
+current loss:  46676.81707930958
+Epoch:  459
+Loss Value:  4597406.5
+current loss:  46676.81707930958
+Epoch:  460
+Loss Value:  4549187.0
+current loss:  45727.68049562238
+Epoch:  460
+Loss Value:  4549187.0
+current loss:  45727.68049562238
+Epoch:  461
+Loss Value:  4457904.5
+current loss:  44364.25561773986
+Epoch:  461
+Loss Value:  4457904.5
+current loss:  44364.25561773986
+Epoch:  462
+Loss Value:  4372226.5
+current loss:  43078.656037818546
+Epoch:  462
+Loss Value:  4372226.5
+current loss:  43078.656037818546
+Epoch:  463
+Loss Value:  4273088.0
+current loss:  41682.944063112234
+Epoch:  463
+Loss Value:  4273088.0
+current loss:  41682.944063112234
+Epoch:  464
+Loss Value:  4218054.5
+current loss:  40736.69493747504
+Epoch:  464
+Loss Value:  4218054.5
+current loss:  40736.69493747504
+Epoch:  465
+Loss Value:  4118588.75
+current loss:  39380.30614311476
+Epoch:  465
+Loss Value:  4118588.75
+current loss:  39380.30614311476
+Epoch:  466
+Loss Value:  4011048.0
+current loss:  37970.43508345539
+Epoch:  466
+Loss Value:  4011048.0
+current loss:  37970.43508345539
+Epoch:  467
+Loss Value:  3854488.25
+current loss:  36125.30276767791
+Epoch:  467
+Loss Value:  3854488.25
+current loss:  36125.30276767791
+Epoch:  468
+Loss Value:  3679376.5
+current loss:  34140.98563923967
+Epoch:  468
+Loss Value:  3679376.5
+current loss:  34140.98563923967
+Epoch:  469
+Loss Value:  3427483.75
+current loss:  31487.217516878547
+Epoch:  469
+Loss Value:  3427483.75
+current loss:  31487.217516878547
+Epoch:  470
+Loss Value:  3181789.0
+current loss:  28939.252634127628
+Epoch:  470
+Loss Value:  3181789.0
+current loss:  28939.252634127628
+Epoch:  471
+Loss Value:  3107324.0
+current loss:  27980.7614965671
+Epoch:  471
+Loss Value:  3107324.0
+current loss:  27980.7614965671
+Epoch:  472
+Loss Value:  3027398.25
+current loss:  26989.795935983446
+Epoch:  472
+Loss Value:  3027398.25
+current loss:  26989.795935983446
+Epoch:  473
+Loss Value:  3001508.5
+current loss:  26492.727850743595
+Epoch:  473
+Loss Value:  3001508.5
+current loss:  26492.727850743595
+Epoch:  474
+Loss Value:  2869269.75
+current loss:  25073.5331559314
+Epoch:  474
+Loss Value:  2869269.75
+current loss:  25073.5331559314
+Epoch:  475
+Loss Value:  2815070.25
+current loss:  24355.129778372604
+Epoch:  475
+Loss Value:  2815070.25
+current loss:  24355.129778372604
+Epoch:  476
+Loss Value:  2762215.75
+current loss:  23660.061186117153
+Epoch:  476
+Loss Value:  2762215.75
+current loss:  23660.061186117153
+Epoch:  477
+Loss Value:  2785114.75
+current loss:  23618.831869093185
+Epoch:  477
+Loss Value:  2785114.75
+current loss:  23618.831869093185
+Epoch:  478
+Loss Value:  2925043.0
+current loss:  24558.658007868155
+Epoch:  478
+Loss Value:  2925043.0
+current loss:  24558.658007868155
+Epoch:  479
+Loss Value:  2967466.5
+current loss:  24666.93881353456
+Epoch:  479
+Loss Value:  2967466.5
+current loss:  24666.93881353456
+Epoch:  480
+Loss Value:  2987279.25
+current loss:  24584.55259228627
+Epoch:  480
+Loss Value:  2987279.25
+current loss:  24584.55259228627
+Epoch:  481
+Loss Value:  3023870.0
+current loss:  24638.068504023566
+Epoch:  481
+Loss Value:  3023870.0
+current loss:  24638.068504023566
+Epoch:  482
+Loss Value:  2979052.5
+current loss:  24031.382393702555
+Epoch:  482
+Loss Value:  2979052.5
+current loss:  24031.382393702555
+Epoch:  483
+Loss Value:  2965279.5
+current loss:  23682.267786251898
+Epoch:  483
+Loss Value:  2965279.5
+current loss:  23682.267786251898
+Epoch:  484
+Loss Value:  3026726.5
+current loss:  23932.490034890237
+Epoch:  484
+Loss Value:  3026726.5
+current loss:  23932.490034890237
+Epoch:  485
+Loss Value:  3187561.75
+current loss:  24953.436840470797
+Epoch:  485
+Loss Value:  3187561.75
+current loss:  24953.436840470797
+Epoch:  486
+Loss Value:  3270331.0
+current loss:  25346.64773418495
+Epoch:  486
+Loss Value:  3270331.0
+current loss:  25346.64773418495
+Epoch:  487
+Loss Value:  3390237.5
+current loss:  26014.530750221584
+Epoch:  487
+Loss Value:  3390237.5
+current loss:  26014.530750221584
+Epoch:  488
+Loss Value:  3422664.75
+current loss:  26002.032117445266
+Epoch:  488
+Loss Value:  3422664.75
+current loss:  26002.032117445266
+Epoch:  489
+Loss Value:  3440431.0
+current loss:  25876.935047063573
+Epoch:  489
+Loss Value:  3440431.0
+current loss:  25876.935047063573
+Epoch:  490
+Loss Value:  3332131.5
+current loss:  24812.994017993722
+Epoch:  490
+Loss Value:  3332131.5
+current loss:  24812.994017993722
+Epoch:  491
+Loss Value:  3198876.0
+current loss:  23583.67598349318
+Epoch:  491
+Loss Value:  3198876.0
+current loss:  23583.67598349318
+Epoch:  492
+Loss Value:  3117051.75
+current loss:  22751.768579461335
+Epoch:  492
+Loss Value:  3117051.75
+current loss:  22751.768579461335
+Epoch:  493
+Loss Value:  3110315.25
+current loss:  22476.70336024025
+Epoch:  493
+Loss Value:  3110315.25
+current loss:  22476.70336024025
+Epoch:  494
+Loss Value:  3101195.25
+current loss:  22187.806487879705
+Epoch:  494
+Loss Value:  3101195.25
+current loss:  22187.806487879705
+Epoch:  495
+Loss Value:  3070425.0
+current loss:  21749.075860984853
+Epoch:  495
+Loss Value:  3070425.0
+current loss:  21749.075860984853
+Epoch:  496
+Loss Value:  3050344.25
+current loss:  21391.844089791914
+Epoch:  496
+Loss Value:  3050344.25
+current loss:  21391.844089791914
+Epoch:  497
+Loss Value:  3070600.25
+current loss:  21319.63209127843
+Epoch:  497
+Loss Value:  3070600.25
+current loss:  21319.63209127843
+Epoch:  498
+Loss Value:  3035311.75
+current loss:  20864.92285100341
+Epoch:  498
+Loss Value:  3035311.75
+current loss:  20864.92285100341
+Epoch:  499
+Loss Value:  3055750.5
+current loss:  20796.41267496573
+Epoch:  499
+Loss Value:  3055750.5
+current loss:  20796.41267496573
+Epoch:  500
+Loss Value:  3013064.0
+current loss:  20301.865536852452
+Epoch:  500
+Loss Value:  3013064.0
+current loss:  20301.865536852452
+Epoch:  501
+Loss Value:  3013696.0
+current loss:  20104.074610448297
+Epoch:  501
+Loss Value:  3013696.0
+current loss:  20104.074610448297
+Epoch:  502
+Loss Value:  3033021.0
+current loss:  20031.6682044127
+Epoch:  502
+Loss Value:  3033021.0
+current loss:  20031.6682044127
+Epoch:  503
+Loss Value:  3005211.75
+current loss:  19650.51035763825
+Epoch:  503
+Loss Value:  3005211.75
+current loss:  19650.51035763825
+Epoch:  504
+Loss Value:  3045200.25
+current loss:  19713.859997291976
+Epoch:  504
+Loss Value:  3045200.25
+current loss:  19713.859997291976
+Epoch:  505
+Loss Value:  3112845.75
+current loss:  19951.266378512035
+Epoch:  505
+Loss Value:  3112845.75
+current loss:  19951.266378512035
+Epoch:  506
+Loss Value:  3141235.25
+current loss:  19932.895222922925
+Epoch:  506
+Loss Value:  3141235.25
+current loss:  19932.895222922925
+Epoch:  507
+Loss Value:  3209643.5
+current loss:  20164.328969191392
+Epoch:  507
+Loss Value:  3209643.5
+current loss:  20164.328969191392
+Epoch:  508
+Loss Value:  3318032.75
+current loss:  20637.861816917728
+Epoch:  508
+Loss Value:  3318032.75
+current loss:  20637.861816917728
+Epoch:  509
+Loss Value:  3583774.5
+current loss:  22068.95464212877
+Epoch:  509
+Loss Value:  3583774.5
+current loss:  22068.95464212877
+Epoch:  510
+Loss Value:  3653373.25
+current loss:  22273.690814484184
+Epoch:  510
+Loss Value:  3653373.25
+current loss:  22273.690814484184
+Epoch:  511
+Loss Value:  3671913.75
+current loss:  22163.97588330544
+Epoch:  511
+Loss Value:  3671913.75
+current loss:  22163.97588330544
+Epoch:  512
+Loss Value:  3669065.0
+current loss:  21926.416443264978
+Epoch:  512
+Loss Value:  3669065.0
+current loss:  21926.416443264978
+Epoch:  513
+Loss Value:  3671189.75
+current loss:  21720.816166235978
+Epoch:  513
+Loss Value:  3671189.75
+current loss:  21720.816166235978
+Epoch:  514
+Loss Value:  3662533.75
+current loss:  21453.986272119542
+Epoch:  514
+Loss Value:  3662533.75
+current loss:  21453.986272119542
+Epoch:  515
+Loss Value:  3736176.75
+current loss:  21667.60110426771
+Epoch:  515
+Loss Value:  3736176.75
+current loss:  21667.60110426771
+Epoch:  516
+Loss Value:  3752588.25
+current loss:  21546.234775414654
+Epoch:  516
+Loss Value:  3752588.25
+current loss:  21546.234775414654
+Epoch:  517
+Loss Value:  3879324.75
+current loss:  22052.28851347685
+Epoch:  517
+Loss Value:  3879324.75
+current loss:  22052.28851347685
+Epoch:  518
+Loss Value:  3968857.25
+current loss:  22336.75406085408
+Epoch:  518
+Loss Value:  3968857.25
+current loss:  22336.75406085408
+Epoch:  519
+Loss Value:  4054072.0
+current loss:  22589.316812176323
+Epoch:  519
+Loss Value:  4054072.0
+current loss:  22589.316812176323
+Epoch:  520
+Loss Value:  4130284.75
+current loss:  22784.9818994608
+Epoch:  520
+Loss Value:  4130284.75
+current loss:  22784.9818994608
+Epoch:  521
+Loss Value:  4391534.0
+current loss:  23985.12569617986
+Epoch:  521
+Loss Value:  4391534.0
+current loss:  23985.12569617986
+Epoch:  522
+Loss Value:  4590193.0
+current loss:  24820.68430488541
+Epoch:  522
+Loss Value:  4590193.0
+current loss:  24820.68430488541
+Epoch:  523
+Loss Value:  4528045.5
+current loss:  24241.006155845313
+Epoch:  523
+Loss Value:  4528045.5
+current loss:  24241.006155845313
+Epoch:  524
+Loss Value:  4487733.5
+current loss:  23786.140160939605
+Epoch:  524
+Loss Value:  4487733.5
+current loss:  23786.140160939605
+Epoch:  525
+Loss Value:  4441348.0
+current loss:  23306.055347167443
+Epoch:  525
+Loss Value:  4441348.0
+current loss:  23306.055347167443
+Epoch:  526
+Loss Value:  4445956.5
+current loss:  23098.098783608195
+Epoch:  526
+Loss Value:  4445956.5
+current loss:  23098.098783608195
+Epoch:  527
+Loss Value:  4448951.0
+current loss:  22883.671402494077
+Epoch:  527
+Loss Value:  4448951.0
+current loss:  22883.671402494077
+Epoch:  528
+Loss Value:  4409700.0
+current loss:  22456.09206656562
+Epoch:  528
+Loss Value:  4409700.0
+current loss:  22456.09206656562
+Epoch:  529
+Loss Value:  4401388.5
+current loss:  22190.745626760887
+Epoch:  529
+Loss Value:  4401388.5
+current loss:  22190.745626760887
+Epoch:  530
+Loss Value:  4418542.5
+current loss:  22055.569820423836
+Epoch:  530
+Loss Value:  4418542.5
+current loss:  22055.569820423836
+Epoch:  531
+Loss Value:  4339452.0
+current loss:  21445.25377888912
+Epoch:  531
+Loss Value:  4339452.0
+current loss:  21445.25377888912
+Epoch:  532
+Loss Value:  4354139.5
+current loss:  21303.73225883735
+Epoch:  532
+Loss Value:  4354139.5
+current loss:  21303.73225883735
+Epoch:  533
+Loss Value:  4208187.5
+current loss:  20384.75487467095
+Epoch:  533
+Loss Value:  4208187.5
+current loss:  20384.75487467095
+Epoch:  534
+Loss Value:  4150581.75
+current loss:  19905.65344551586
+Epoch:  534
+Loss Value:  4150581.75
+current loss:  19905.65344551586
+Epoch:  535
+Loss Value:  4153461.25
+current loss:  19721.261185204326
+Epoch:  535
+Loss Value:  4153461.25
+current loss:  19721.261185204326
+Epoch:  536
+Loss Value:  4101045.5
+current loss:  19278.62983842691
+Epoch:  536
+Loss Value:  4101045.5
+current loss:  19278.62983842691
+Epoch:  537
+Loss Value:  4025093.5
+current loss:  18733.31368516768
+Epoch:  537
+Loss Value:  4025093.5
+current loss:  18733.31368516768
+Epoch:  538
+Loss Value:  4036579.0
+current loss:  18599.837238348213
+Epoch:  538
+Loss Value:  4036579.0
+current loss:  18599.837238348213
+Epoch:  539
+Loss Value:  4024587.5
+current loss:  18360.06086233277
+Epoch:  539
+Loss Value:  4024587.5
+current loss:  18360.06086233277
+Epoch:  540
+Loss Value:  4093681.75
+current loss:  18489.444977171268
+Epoch:  540
+Loss Value:  4093681.75
+current loss:  18489.444977171268
+Epoch:  541
+Loss Value:  4266378.5
+current loss:  19077.70965743198
+Epoch:  541
+Loss Value:  4266378.5
+current loss:  19077.70965743198
+Epoch:  542
+Loss Value:  4468245.0
+current loss:  19781.575873439913
+Epoch:  542
+Loss Value:  4468245.0
+current loss:  19781.575873439913
+Epoch:  543
+Loss Value:  4698735.0
+current loss:  20595.00565635287
+Epoch:  543
+Loss Value:  4698735.0
+current loss:  20595.00565635287
+Epoch:  544
+Loss Value:  4909861.0
+current loss:  21306.25967115334
+Epoch:  544
+Loss Value:  4909861.0
+current loss:  21306.25967115334
+Epoch:  545
+Loss Value:  5515517.0
+current loss:  23696.341559024273
+Epoch:  545
+Loss Value:  5515517.0
+current loss:  23696.341559024273
+Epoch:  546
+Loss Value:  5964100.0
+current loss:  25368.63181765189
+Epoch:  546
+Loss Value:  5964100.0
+current loss:  25368.63181765189
+Epoch:  547
+Loss Value:  6381837.5
+current loss:  26875.399307111406
+Epoch:  547
+Loss Value:  6381837.5
+current loss:  26875.399307111406
+Epoch:  548
+Loss Value:  6837997.0
+current loss:  28509.86396627922
+Epoch:  548
+Loss Value:  6837997.0
+current loss:  28509.86396627922
+Epoch:  549
+Loss Value:  7059459.5
+current loss:  29140.348770467193
+Epoch:  549
+Loss Value:  7059459.5
+current loss:  29140.348770467193
+Epoch:  550
+Loss Value:  7443486.5
+current loss:  30419.82803079286
+Epoch:  550
+Loss Value:  7443486.5
+current loss:  30419.82803079286
+Epoch:  551
+Loss Value:  8405508.0
+current loss:  34009.58797853326
+Epoch:  551
+Loss Value:  8405508.0
+current loss:  34009.58797853326
+Epoch:  552
+Loss Value:  8597499.0
+current loss:  34440.27367627442
+Epoch:  552
+Loss Value:  8597499.0
+current loss:  34440.27367627442
+Epoch:  553
+Loss Value:  8775522.0
+current loss:  34803.6245030786
+Epoch:  553
+Loss Value:  8775522.0
+current loss:  34803.6245030786
+Epoch:  554
+Loss Value:  9125484.0
+current loss:  35831.457838528564
+Epoch:  554
+Loss Value:  9125484.0
+current loss:  35831.457838528564
+Epoch:  555
+Loss Value:  9160798.0
+current loss:  35612.21054112165
+Epoch:  555
+Loss Value:  9160798.0
+current loss:  35612.21054112165
+Epoch:  556
+Loss Value:  9393484.0
+current loss:  36153.41951053224
+Epoch:  556
+Loss Value:  9393484.0
+current loss:  36153.41951053224
+Epoch:  557
+Loss Value:  9560527.0
+current loss:  36430.20105876785
+Epoch:  557
+Loss Value:  9560527.0
+current loss:  36430.20105876785
+Epoch:  558
+Loss Value:  9826958.0
+current loss:  37072.84290541921
+Epoch:  558
+Loss Value:  9826958.0
+current loss:  37072.84290541921
+Epoch:  559
+Loss Value:  9885065.0
+current loss:  36920.99321925275
+Epoch:  559
+Loss Value:  9885065.0
+current loss:  36920.99321925275
+Epoch:  560
+Loss Value:  9511637.0
+current loss:  35172.73734665654
+Epoch:  560
+Loss Value:  9511637.0
+current loss:  35172.73734665654
+Epoch:  561
+Loss Value:  9304400.0
+current loss:  34064.05373207237
+Epoch:  561
+Loss Value:  9304400.0
+current loss:  34064.05373207237
+Epoch:  562
+Loss Value:  9125106.0
+current loss:  33075.23433127007
+Epoch:  562
+Loss Value:  9125106.0
+current loss:  33075.23433127007
+Epoch:  563
+Loss Value:  9077314.0
+current loss:  32574.62505884487
+Epoch:  563
+Loss Value:  9077314.0
+current loss:  32574.62505884487
+Epoch:  564
+Loss Value:  8906598.0
+current loss:  31643.97064111437
+Epoch:  564
+Loss Value:  8906598.0
+current loss:  31643.97064111437
+Epoch:  565
+Loss Value:  8863349.0
+current loss:  31176.97878940064
+Epoch:  565
+Loss Value:  8863349.0
+current loss:  31176.97878940064
+Epoch:  566
+Loss Value:  8632222.0
+current loss:  30061.85898411448
+Epoch:  566
+Loss Value:  8632222.0
+current loss:  30061.85898411448
+Epoch:  567
+Loss Value:  8371769.0
+current loss:  28864.731634656597
+Epoch:  567
+Loss Value:  8371769.0
+current loss:  28864.731634656597
+Epoch:  568
+Loss Value:  7894976.5
+current loss:  26949.963691983503
+Epoch:  568
+Loss Value:  7894976.5
+current loss:  26949.963691983503
+Epoch:  569
+Loss Value:  6906091.0
+current loss:  23339.77658947579
+Epoch:  569
+Loss Value:  6906091.0
+current loss:  23339.77658947579
+Epoch:  570
+Loss Value:  6320904.5
+current loss:  21149.52811697472
+Epoch:  570
+Loss Value:  6320904.5
+current loss:  21149.52811697472
+Epoch:  571
+Loss Value:  5964797.0
+current loss:  19759.419257801244
+Epoch:  571
+Loss Value:  5964797.0
+current loss:  19759.419257801244
+Epoch:  572
+Loss Value:  5613758.5
+current loss:  18411.504955573902
+Epoch:  572
+Loss Value:  5613758.5
+current loss:  18411.504955573902
+Epoch:  573
+Loss Value:  5418080.5
+current loss:  17592.925841419463
+Epoch:  573
+Loss Value:  5418080.5
+current loss:  17592.925841419463
+Epoch:  574
+Loss Value:  5333912.5
+current loss:  17147.292688262754
+Epoch:  574
+Loss Value:  5333912.5
+current loss:  17147.292688262754
+Epoch:  575
+Loss Value:  5202546.5
+current loss:  16558.56509314858
+Epoch:  575
+Loss Value:  5202546.5
+current loss:  16558.56509314858
+Epoch:  576
+Loss Value:  5061766.5
+current loss:  15950.191126767526
+Epoch:  576
+Loss Value:  5061766.5
+current loss:  15950.191126767526
+Epoch:  577
+Loss Value:  4926711.5
+current loss:  15370.14522224808
+Epoch:  577
+Loss Value:  4926711.5
+current loss:  15370.14522224808
+Epoch:  578
+Loss Value:  4872542.0
+current loss:  15049.895552680802
+Epoch:  578
+Loss Value:  4872542.0
+current loss:  15049.895552680802
+Epoch:  579
+Loss Value:  4755898.5
+current loss:  14543.452845878342
+Epoch:  579
+Loss Value:  4755898.5
+current loss:  14543.452845878342
+Epoch:  580
+Loss Value:  4660529.5
+current loss:  14110.008203688976
+Epoch:  580
+Loss Value:  4660529.5
+current loss:  14110.008203688976
+Epoch:  581
+Loss Value:  4626179.0
+current loss:  13866.648054562229
+Epoch:  581
+Loss Value:  4626179.0
+current loss:  13866.648054562229
+Epoch:  582
+Loss Value:  4677949.5
+current loss:  13882.307003225445
+Epoch:  582
+Loss Value:  4677949.5
+current loss:  13882.307003225445
+Epoch:  583
+Loss Value:  4670845.5
+current loss:  13723.30364173076
+Epoch:  583
+Loss Value:  4670845.5
+current loss:  13723.30364173076
+Epoch:  584
+Loss Value:  4638134.5
+current loss:  13491.603337851937
+Epoch:  584
+Loss Value:  4638134.5
+current loss:  13491.603337851937
+Epoch:  585
+Loss Value:  4573379.5
+current loss:  13170.871771668018
+Epoch:  585
+Loss Value:  4573379.5
+current loss:  13170.871771668018
+Epoch:  586
+Loss Value:  4533044.0
+current loss:  12924.813068308811
+Epoch:  586
+Loss Value:  4533044.0
+current loss:  12924.813068308811
+Epoch:  587
+Loss Value:  4393975.5
+current loss:  12403.636269266704
+Epoch:  587
+Loss Value:  4393975.5
+current loss:  12403.636269266704
+Epoch:  588
+Loss Value:  4429899.5
+current loss:  12380.617892493077
+Epoch:  588
+Loss Value:  4429899.5
+current loss:  12380.617892493077
+Epoch:  589
+Loss Value:  4475289.5
+current loss:  12383.021758447714
+Epoch:  589
+Loss Value:  4475289.5
+current loss:  12383.021758447714
+Epoch:  590
+Loss Value:  4574148.5
+current loss:  12530.627408602104
+Epoch:  590
+Loss Value:  4574148.5
+current loss:  12530.627408602104
+Epoch:  591
+Loss Value:  4688542.0
+current loss:  12716.202133361548
+Epoch:  591
+Loss Value:  4688542.0
+current loss:  12716.202133361548
+Epoch:  592
+Loss Value:  4760948.5
+current loss:  12784.099754668026
+Epoch:  592
+Loss Value:  4760948.5
+current loss:  12784.099754668026
+Epoch:  593
+Loss Value:  4846351.0
+current loss:  12883.936844788335
+Epoch:  593
+Loss Value:  4846351.0
+current loss:  12883.936844788335
+Epoch:  594
+Loss Value:  4896419.5
+current loss:  12887.52130779922
+Epoch:  594
+Loss Value:  4896419.5
+current loss:  12887.52130779922
+Epoch:  1
+Loss Value:  1592793.5
+current loss:  1576944.9398717557
+Epoch:  1
+Loss Value:  1592793.5
+current loss:  1576944.9398717557
+Epoch:  2
+Loss Value:  1626325.75
+current loss:  1594122.3425146136
+Epoch:  2
+Loss Value:  1626325.75
+current loss:  1594122.3425146136
+Epoch:  3
+Loss Value:  1616969.125
+current loss:  1569180.4652420895
+Epoch:  3
+Loss Value:  1616969.125
+current loss:  1569180.4652420895
+Epoch:  4
+Loss Value:  1595308.375
+current loss:  1532755.4388912541
+Epoch:  4
+Loss Value:  1595308.375
+current loss:  1532755.4388912541
+Epoch:  5
+Loss Value:  1558432.75
+current loss:  1482427.087905565
+Epoch:  5
+Loss Value:  1558432.75
+current loss:  1482427.087905565
+Epoch:  6
+Loss Value:  1528769.125
+current loss:  1439740.541963625
+Epoch:  6
+Loss Value:  1528769.125
+current loss:  1439740.541963625
+Epoch:  7
+Loss Value:  1542563.0
+current loss:  1438276.2080155793
+Epoch:  7
+Loss Value:  1542563.0
+current loss:  1438276.2080155793
+Epoch:  8
+Loss Value:  1526927.5
+current loss:  1409531.7349972797
+Epoch:  8
+Loss Value:  1526927.5
+current loss:  1409531.7349972797
+Epoch:  9
+Loss Value:  1520849.625
+current loss:  1389951.9003955529
+Epoch:  9
+Loss Value:  1520849.625
+current loss:  1389951.9003955529
+Epoch:  1
+Loss Value:  1592970.875
+current loss:  1577120.5499610167
+Epoch:  1
+Loss Value:  1592970.875
+current loss:  1577120.5499610167
+Epoch:  2
+Loss Value:  1626503.875
+current loss:  1594296.9404032964
+Epoch:  2
+Loss Value:  1626503.875
+current loss:  1594296.9404032964
+Epoch:  0
+Loss Value:  1592424.375
+current loss:  1592424.375
+Epoch:  0
+Loss Value:  1592424.375
+current loss:  1592424.375
+Epoch:  0
+Loss Value:  1625954.125
+current loss:  1625954.125
+Epoch:  0
+Loss Value:  1625954.125
+current loss:  1625954.125
+Epoch:  0
+Loss Value:  1616598.5
+current loss:  1616598.5
+Epoch:  0
+Loss Value:  1616598.5
+current loss:  1616598.5
+Epoch:  0
+Loss Value:  1594939.375
+current loss:  1594939.375
+Epoch:  0
+Loss Value:  1594939.375
+current loss:  1594939.375
+Epoch:  0
+Loss Value:  1558069.0
+current loss:  1558069.0
+Epoch:  0
+Loss Value:  1558069.0
+current loss:  1558069.0
+Epoch:  0
+Loss Value:  1528408.875
+current loss:  1528408.875
+Epoch:  0
+Loss Value:  1528408.875
+current loss:  1528408.875
+Epoch:  0
+Loss Value:  1542201.5
+current loss:  1542201.5
+Epoch:  0
+Loss Value:  1542201.5
+current loss:  1542201.5
+Epoch:  0
+Loss Value:  1526569.875
+current loss:  1526569.875
+Epoch:  0
+Loss Value:  1526569.875
+current loss:  1526569.875
+Epoch:  0
+Loss Value:  1520492.25
+current loss:  1520492.25
+Epoch:  0
+Loss Value:  1520492.25
+current loss:  1520492.25
+Epoch:  0
+Loss Value:  1518460.0
+current loss:  1518460.0
+Epoch:  0
+Loss Value:  1518460.0
+current loss:  1518460.0
+Epoch:  0
+Loss Value:  1478361.875
+current loss:  1478361.875
+Epoch:  0
+Loss Value:  1478361.875
+current loss:  1478361.875
+Epoch:  0
+Loss Value:  1483217.25
+current loss:  1483217.25
+Epoch:  0
+Loss Value:  1483217.25
+current loss:  1483217.25
+Epoch:  0
+Loss Value:  1524763.875
+current loss:  1524763.875
+Epoch:  0
+Loss Value:  1524763.875
+current loss:  1524763.875
+Epoch:  0
+Loss Value:  1517571.875
+current loss:  1517571.875
+Epoch:  0
+Loss Value:  1517571.875
+current loss:  1517571.875
+Epoch:  0
+Loss Value:  1530540.5
+current loss:  1530540.5
+Epoch:  0
+Loss Value:  1530540.5
+current loss:  1530540.5
+Epoch:  0
+Loss Value:  1565931.75
+current loss:  1565931.75
+Epoch:  0
+Loss Value:  1565931.75
+current loss:  1565931.75
+Epoch:  0
+Loss Value:  1604349.0
+current loss:  1604349.0
+Epoch:  0
+Loss Value:  1604349.0
+current loss:  1604349.0
+Epoch:  0
+Loss Value:  1602201.625
+current loss:  1602201.625
+Epoch:  0
+Loss Value:  1602201.625
+current loss:  1602201.625
