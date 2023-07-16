@@ -38,25 +38,25 @@ input_size_to_FC_Layer = 5
 # Threshold Distance between 2 markets
 distance_threshold = 200.0
 
-with open('/data/home/hemantmishra/examples/CrypTen/examples/mpc_autograd_cnn/data/x_train.pkl', 'rb') as f:
+with open('Model_j/data_1/x_train.pkl', 'rb') as f:
     x_train = pickle.load(f)
 f.close()
-with open('/data/home/hemantmishra/examples/CrypTen/examples/mpc_autograd_cnn/data/y_train.pkl', 'rb') as f:
+with open('Model_j/data_1/y_train.pkl', 'rb') as f:
     y_train = pickle.load(f)
 f.close()
-with open('/data/home/hemantmishra/examples/CrypTen/examples/mpc_autograd_cnn/data/x_val.pkl', 'rb') as f:
+with open('Model_j/data_1/x_val.pkl', 'rb') as f:
     x_val = pickle.load(f)
 f.close()
-with open('/data/home/hemantmishra/examples/CrypTen/examples/mpc_autograd_cnn/data/y_val.pkl', 'rb') as f:
+with open('Model_j/data_1/y_val.pkl', 'rb') as f:
     y_val = pickle.load(f)
 f.close()
-with open('/data/home/hemantmishra/examples/CrypTen/examples/mpc_autograd_cnn/data/x_test.pkl', 'rb') as f:
+with open('Model_j/data_1/x_test.pkl', 'rb') as f:
     x_test = pickle.load(f)
 f.close()
-with open('/data/home/hemantmishra/examples/CrypTen/examples/mpc_autograd_cnn/data/y_test.pkl', 'rb') as f:
+with open('Model_j/data_1/y_test.pkl', 'rb') as f:
     y_test = pickle.load(f)
 f.close()
-with open('/data/home/hemantmishra/examples/CrypTen/examples/mpc_autograd_cnn/data/edge_index.pkl', 'rb') as f:
+with open('Model_j/data_1/edge_index.pkl', 'rb') as f:
     edge_index = pickle.load(f)
 f.close()
 
