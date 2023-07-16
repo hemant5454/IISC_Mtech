@@ -16,7 +16,11 @@ Make sure to have the necessary software installed before initiating the project
 
 ```pip install -r requirements.txt```
 
-In order to run the project, run the following command 
+In order to run the plain-text model, run the following command 
+
+```python3 Model_j/model_j.py```
+
+In order to run the privacy-preserving model, run the following command 
 
 ```python3 Model_j/mpc_autograd_cnn/launcher.py```
 
