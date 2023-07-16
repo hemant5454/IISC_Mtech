@@ -25,7 +25,7 @@ os.environ['CUDA_VISIBLE_DEVICES'] = '3'
 
 
 import sys
-sys.path.append('/data/home/hemantmishra/IISC_Mtech')
+sys.path.append('')
 
 from Co_GAT.multiprocess_launcher import MultiProcessLauncher
 
